@@ -1,0 +1,100 @@
+device: cuda (NVIDIA GeForce RTX 4060 Laptop GPU)
+tokens 213,588 | vocab 4,943 | windows {'train': 170839, 'val': 21328, 'test': 21331}
+example window: white house with a green garden and an orchard beyond , and mother said , here we are ! how white the house is , said robert . and look -> at
+
+=== SimpleRNN  (2,133,455 parameters) ===
+epoch  1 | train loss 5.708 acc 0.111 | val loss 5.015 ppl   150.7 acc 0.146 | lr 2e-03 | 3.4s
+epoch  2 | train loss 5.197 acc 0.138 | val loss 4.866 ppl   129.8 acc 0.164 | lr 2e-03 | 2.7s
+epoch  3 | train loss 5.013 acc 0.147 | val loss 4.825 ppl   124.6 acc 0.169 | lr 2e-03 | 2.7s
+epoch  4 | train loss 4.889 acc 0.153 | val loss 4.809 ppl   122.6 acc 0.171 | lr 2e-03 | 2.8s
+epoch  5 | train loss 4.804 acc 0.157 | val loss 4.795 ppl   121.0 acc 0.174 | lr 2e-03 | 2.8s
+epoch  6 | train loss 4.744 acc 0.159 | val loss 4.802 ppl   121.8 acc 0.172 | lr 2e-03 | 2.8s
+epoch  7 | train loss 4.695 acc 0.160 | val loss 4.811 ppl   122.8 acc 0.174 | lr 2e-03 | 2.9s
+epoch  8 | train loss 4.508 acc 0.169 | val loss 4.730 ppl   113.3 acc 0.183 | lr 1e-03 | 2.8s
+epoch  9 | train loss 4.437 acc 0.173 | val loss 4.722 ppl   112.4 acc 0.182 | lr 1e-03 | 2.9s
+epoch 10 | train loss 4.396 acc 0.175 | val loss 4.728 ppl   113.1 acc 0.181 | lr 1e-03 | 2.8s
+epoch 11 | train loss 4.367 acc 0.175 | val loss 4.730 ppl   113.3 acc 0.181 | lr 1e-03 | 2.8s
+epoch 12 | train loss 4.259 acc 0.183 | val loss 4.699 ppl   109.8 acc 0.186 | lr 5e-04 | 2.9s
+epoch 13 | train loss 4.226 acc 0.183 | val loss 4.695 ppl   109.4 acc 0.184 | lr 5e-04 | 2.8s
+epoch 14 | train loss 4.205 acc 0.184 | val loss 4.692 ppl   109.1 acc 0.184 | lr 5e-04 | 2.8s
+epoch 15 | train loss 4.185 acc 0.186 | val loss 4.696 ppl   109.5 acc 0.184 | lr 5e-04 | 2.8s
+epoch 16 | train loss 4.166 acc 0.187 | val loss 4.697 ppl   109.6 acc 0.185 | lr 5e-04 | 2.7s
+epoch 17 | train loss 4.112 acc 0.191 | val loss 4.686 ppl   108.4 acc 0.188 | lr 3e-04 | 2.7s
+epoch 18 | train loss 4.103 acc 0.193 | val loss 4.682 ppl   108.0 acc 0.188 | lr 3e-04 | 2.7s
+epoch 19 | train loss 4.088 acc 0.194 | val loss 4.683 ppl   108.1 acc 0.189 | lr 3e-04 | 2.7s
+epoch 20 | train loss 4.077 acc 0.194 | val loss 4.683 ppl   108.1 acc 0.188 | lr 3e-04 | 2.7s
+epoch 21 | train loss 4.051 acc 0.196 | val loss 4.680 ppl   107.8 acc 0.188 | lr 1e-04 | 2.8s
+epoch 22 | train loss 4.043 acc 0.196 | val loss 4.682 ppl   108.0 acc 0.188 | lr 1e-04 | 2.7s
+epoch 23 | train loss 4.033 acc 0.196 | val loss 4.683 ppl   108.1 acc 0.187 | lr 1e-04 | 2.7s
+epoch 24 | train loss 4.022 acc 0.198 | val loss 4.680 ppl   107.8 acc 0.188 | lr 6e-05 | 2.7s
+early stopping: no val improvement for 3 epochs (best epoch 21)
+
+=== BiRNN  (3,760,335 parameters) ===
+epoch  1 | train loss 5.720 acc 0.114 | val loss 5.145 ppl   171.6 acc 0.141 | lr 2e-03 | 5.7s
+epoch  2 | train loss 5.388 acc 0.132 | val loss 5.040 ppl   154.5 acc 0.154 | lr 2e-03 | 5.5s
+epoch  3 | train loss 5.270 acc 0.137 | val loss 5.045 ppl   155.3 acc 0.155 | lr 2e-03 | 5.7s
+epoch  4 | train loss 5.175 acc 0.140 | val loss 5.074 ppl   159.8 acc 0.153 | lr 2e-03 | 6.2s
+epoch  5 | train loss 4.881 acc 0.153 | val loss 4.885 ppl   132.3 acc 0.173 | lr 1e-03 | 5.5s
+epoch  6 | train loss 4.770 acc 0.157 | val loss 4.860 ppl   129.0 acc 0.173 | lr 1e-03 | 5.5s
+epoch  7 | train loss 4.695 acc 0.159 | val loss 4.867 ppl   130.0 acc 0.170 | lr 1e-03 | 5.5s
+epoch  8 | train loss 4.643 acc 0.163 | val loss 4.867 ppl   129.9 acc 0.172 | lr 1e-03 | 5.5s
+epoch  9 | train loss 4.482 acc 0.170 | val loss 4.792 ppl   120.5 acc 0.186 | lr 5e-04 | 5.4s
+epoch 10 | train loss 4.433 acc 0.173 | val loss 4.793 ppl   120.7 acc 0.184 | lr 5e-04 | 5.5s
+epoch 11 | train loss 4.396 acc 0.175 | val loss 4.796 ppl   121.0 acc 0.180 | lr 5e-04 | 5.5s
+epoch 12 | train loss 4.308 acc 0.180 | val loss 4.761 ppl   116.8 acc 0.187 | lr 3e-04 | 5.5s
+epoch 13 | train loss 4.277 acc 0.180 | val loss 4.757 ppl   116.5 acc 0.185 | lr 3e-04 | 5.5s
+epoch 14 | train loss 4.262 acc 0.182 | val loss 4.758 ppl   116.5 acc 0.184 | lr 3e-04 | 5.4s
+epoch 15 | train loss 4.233 acc 0.183 | val loss 4.756 ppl   116.3 acc 0.184 | lr 3e-04 | 5.7s
+epoch 16 | train loss 4.216 acc 0.185 | val loss 4.760 ppl   116.7 acc 0.186 | lr 3e-04 | 5.6s
+epoch 17 | train loss 4.216 acc 0.185 | val loss 4.752 ppl   115.9 acc 0.188 | lr 3e-04 | 5.4s
+epoch 18 | train loss 4.190 acc 0.186 | val loss 4.754 ppl   116.0 acc 0.188 | lr 3e-04 | 5.5s
+epoch 19 | train loss 4.176 acc 0.187 | val loss 4.760 ppl   116.8 acc 0.186 | lr 3e-04 | 5.5s
+epoch 20 | train loss 4.136 acc 0.190 | val loss 4.748 ppl   115.3 acc 0.190 | lr 1e-04 | 5.5s
+epoch 21 | train loss 4.126 acc 0.192 | val loss 4.747 ppl   115.2 acc 0.189 | lr 1e-04 | 5.5s
+epoch 22 | train loss 4.103 acc 0.191 | val loss 4.747 ppl   115.2 acc 0.188 | lr 1e-04 | 5.5s
+epoch 23 | train loss 4.105 acc 0.194 | val loss 4.750 ppl   115.6 acc 0.185 | lr 1e-04 | 5.5s
+epoch 24 | train loss 4.079 acc 0.195 | val loss 4.744 ppl   114.9 acc 0.188 | lr 6e-05 | 5.5s
+epoch 25 | train loss 4.065 acc 0.195 | val loss 4.746 ppl   115.1 acc 0.187 | lr 6e-05 | 5.6s
+epoch 26 | train loss 4.067 acc 0.195 | val loss 4.743 ppl   114.7 acc 0.188 | lr 6e-05 | 5.5s
+epoch 27 | train loss 4.069 acc 0.195 | val loss 4.743 ppl   114.8 acc 0.189 | lr 6e-05 | 5.6s
+epoch 28 | train loss 4.068 acc 0.195 | val loss 4.742 ppl   114.6 acc 0.188 | lr 6e-05 | 5.6s
+epoch 29 | train loss 4.059 acc 0.196 | val loss 4.742 ppl   114.7 acc 0.187 | lr 6e-05 | 5.6s
+epoch 30 | train loss 4.056 acc 0.196 | val loss 4.739 ppl   114.3 acc 0.189 | lr 6e-05 | 5.6s
+
+=== LSTM  (2,824,655 parameters) ===
+epoch  1 | train loss 5.681 acc 0.107 | val loss 5.036 ppl   153.9 acc 0.148 | lr 2e-03 | 4.1s
+epoch  2 | train loss 5.091 acc 0.147 | val loss 4.771 ppl   118.0 acc 0.174 | lr 2e-03 | 4.0s
+epoch  3 | train loss 4.846 acc 0.163 | val loss 4.650 ppl   104.5 acc 0.185 | lr 2e-03 | 4.1s
+epoch  4 | train loss 4.679 acc 0.173 | val loss 4.593 ppl    98.7 acc 0.189 | lr 2e-03 | 4.2s
+epoch  5 | train loss 4.556 acc 0.178 | val loss 4.566 ppl    96.1 acc 0.194 | lr 2e-03 | 4.0s
+epoch  6 | train loss 4.451 acc 0.184 | val loss 4.545 ppl    94.1 acc 0.199 | lr 2e-03 | 4.0s
+epoch  7 | train loss 4.360 acc 0.189 | val loss 4.540 ppl    93.7 acc 0.197 | lr 2e-03 | 4.2s
+epoch  8 | train loss 4.279 acc 0.192 | val loss 4.535 ppl    93.2 acc 0.201 | lr 2e-03 | 4.2s
+epoch  9 | train loss 4.203 acc 0.195 | val loss 4.558 ppl    95.4 acc 0.202 | lr 2e-03 | 3.9s
+epoch 10 | train loss 4.136 acc 0.198 | val loss 4.571 ppl    96.6 acc 0.200 | lr 2e-03 | 4.0s
+epoch 11 | train loss 4.027 acc 0.204 | val loss 4.586 ppl    98.1 acc 0.202 | lr 1e-03 | 3.9s
+early stopping: no val improvement for 3 epochs (best epoch 8)
+
+=== GRU  (2,594,255 parameters) ===
+epoch  1 | train loss 6.031 acc 0.084 | val loss 5.393 ppl   220.0 acc 0.124 | lr 2e-03 | 3.8s
+epoch  2 | train loss 5.405 acc 0.127 | val loss 4.917 ppl   136.6 acc 0.159 | lr 2e-03 | 4.7s
+epoch  3 | train loss 5.082 acc 0.146 | val loss 4.767 ppl   117.6 acc 0.173 | lr 2e-03 | 4.9s
+epoch  4 | train loss 4.918 acc 0.154 | val loss 4.700 ppl   109.9 acc 0.179 | lr 2e-03 | 4.6s
+epoch  5 | train loss 4.809 acc 0.161 | val loss 4.656 ppl   105.2 acc 0.183 | lr 2e-03 | 4.4s
+epoch  6 | train loss 4.722 acc 0.165 | val loss 4.629 ppl   102.4 acc 0.187 | lr 2e-03 | 4.5s
+epoch  7 | train loss 4.649 acc 0.169 | val loss 4.623 ppl   101.8 acc 0.185 | lr 2e-03 | 5.0s
+epoch  8 | train loss 4.586 acc 0.171 | val loss 4.608 ppl   100.3 acc 0.187 | lr 2e-03 | 4.7s
+epoch  9 | train loss 4.527 acc 0.174 | val loss 4.609 ppl   100.4 acc 0.192 | lr 2e-03 | 4.0s
+epoch 10 | train loss 4.474 acc 0.175 | val loss 4.615 ppl   101.0 acc 0.188 | lr 2e-03 | 4.0s
+epoch 11 | train loss 4.361 acc 0.181 | val loss 4.603 ppl    99.8 acc 0.191 | lr 1e-03 | 4.2s
+epoch 12 | train loss 4.313 acc 0.184 | val loss 4.602 ppl    99.7 acc 0.194 | lr 1e-03 | 4.1s
+epoch 13 | train loss 4.272 acc 0.186 | val loss 4.608 ppl   100.3 acc 0.194 | lr 1e-03 | 3.6s
+epoch 14 | train loss 4.242 acc 0.188 | val loss 4.613 ppl   100.8 acc 0.193 | lr 1e-03 | 3.6s
+epoch 15 | train loss 4.158 acc 0.193 | val loss 4.614 ppl   100.8 acc 0.194 | lr 5e-04 | 3.8s
+early stopping: no val improvement for 3 epochs (best epoch 12)
+
+summary
+SimpleRNN  params  2,133,455  best epoch 21/24  val ppl  107.82  train time   67.2s
+BiRNN      params  3,760,335  best epoch 30/30  val ppl  114.35  train time  166.9s
+LSTM       params  2,824,655  best epoch  8/11  val ppl   93.23  train time   44.7s
+GRU        params  2,594,255  best epoch 12/15  val ppl   99.69  train time   63.8s

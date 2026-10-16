@@ -1,0 +1,19 @@
+seed 1 SimpleRNN  test ppl  105.54  word ppl  177.46  word top1 0.151  time 85s
+seed 1 BiRNN      test ppl  114.31  word ppl  195.84  word top1 0.149  time 183s
+seed 1 LSTM       test ppl   93.00  word ppl  153.59  word top1 0.147  time 48s
+seed 1 GRU        test ppl   96.78  word ppl  159.72  word top1 0.145  time 43s
+seed 2 SimpleRNN  test ppl  107.16  word ppl  180.31  word top1 0.149  time 91s
+seed 2 BiRNN      test ppl  113.44  word ppl  194.10  word top1 0.151  time 189s
+seed 2 LSTM       test ppl   92.79  word ppl  152.92  word top1 0.149  time 47s
+seed 2 GRU        test ppl   97.62  word ppl  158.05  word top1 0.141  time 40s
+seed 3 SimpleRNN  test ppl  105.45  word ppl  177.23  word top1 0.153  time 87s
+seed 3 BiRNN      test ppl  116.52  word ppl  200.08  word top1 0.150  time 190s
+seed 3 LSTM       test ppl   97.29  word ppl  160.08  word top1 0.146  time 47s
+seed 3 GRU        test ppl   96.86  word ppl  161.01  word top1 0.152  time 68s
+
+| Model | Test PPL per run | Test PPL (all) | Test PPL (words) | Top-1 (all) | Top-1 (words) | Train time (s) |
+|---|---|---|---|---|---|---|
+| SimpleRNN | 105.5, 107.2, 105.5 | 106.1 ± 1.0 | 178.3 ± 1.7 | 19.0% ± 0.3% | 15.1% ± 0.2% | 87 ± 3 |
+| BiRNN | 114.3, 113.4, 116.5 | 114.8 ± 1.6 | 196.7 ± 3.1 | 18.8% ± 0.2% | 15.0% ± 0.1% | 187 ± 4 |
+| LSTM | 93.0, 92.8, 97.3 | 94.4 ± 2.5 | 155.5 ± 4.0 | 19.3% ± 0.2% | 14.7% ± 0.2% | 48 ± 0 |
+| GRU | 96.8, 97.6, 96.9 | 97.1 ± 0.5 | 159.6 ± 1.5 | 18.9% ± 0.6% | 14.6% ± 0.5% | 50 ± 16 |

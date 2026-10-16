@@ -1,0 +1,66 @@
+{
+  "test_windows": 21331,
+  "share_of_targets": {
+    "word": 0.8116356134414673,
+    "punctuation": 0.13979654014110565,
+    "unk": 0.04856780916452408
+  },
+  "models": {
+    "SimpleRNN": {
+      "ppl_all_targets": 104.60270090391464,
+      "ppl_excluding_unk_targets": 111.02664334409774,
+      "ppl_word_targets_only": 174.04977739701215,
+      "top1_all_targets": 0.1894894689321518,
+      "top1_word_targets": 0.1528908908367157,
+      "top1_punctuation_targets": 0.40509724617004395,
+      "top1_unk_targets": 0.18050192296504974,
+      "test_ppl_by_context_length": {
+        "30": 104.60270090391464,
+        "12": 104.78176801657838,
+        "5": 107.24956487296735
+      }
+    },
+    "BiRNN": {
+      "ppl_all_targets": 109.51673260951793,
+      "ppl_excluding_unk_targets": 116.91491826911411,
+      "ppl_word_targets_only": 185.86505236393288,
+      "top1_all_targets": 0.19070835411548615,
+      "top1_word_targets": 0.15081153810024261,
+      "top1_punctuation_targets": 0.4195170998573303,
+      "top1_unk_targets": 0.19884169101715088,
+      "test_ppl_by_context_length": {
+        "30": 109.51673260951793,
+        "12": 109.64804426894754,
+        "5": 112.89746384469423
+      }
+    },
+    "LSTM": {
+      "ppl_all_targets": 90.99618001430696,
+      "ppl_excluding_unk_targets": 95.67763877197252,
+      "ppl_word_targets_only": 148.65864694642238,
+      "top1_all_targets": 0.1980685293674469,
+      "top1_word_targets": 0.15040720999240875,
+      "top1_punctuation_targets": 0.4399731457233429,
+      "top1_unk_targets": 0.2982625365257263,
+      "test_ppl_by_context_length": {
+        "30": 90.99618001430696,
+        "12": 91.42096205351915,
+        "5": 93.95524447630635
+      }
+    },
+    "GRU": {
+      "ppl_all_targets": 96.38878846071498,
+      "ppl_excluding_unk_targets": 101.77966846326818,
+      "ppl_word_targets_only": 158.04398233445713,
+      "top1_all_targets": 0.1938493251800537,
+      "top1_word_targets": 0.14930976927280426,
+      "top1_punctuation_targets": 0.4275653660297394,
+      "top1_unk_targets": 0.2654440104961395,
+      "test_ppl_by_context_length": {
+        "30": 96.38878846071498,
+        "12": 94.30521078271242,
+        "5": 98.17245841551373
+      }
+    }
+  }
+}

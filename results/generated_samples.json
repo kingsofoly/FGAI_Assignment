@@ -1,0 +1,1250 @@
+{
+  "SimpleRNN": {
+    "0.2": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the children were left alone. The children were wiser to be trusted. The children were wiser to be trusted. And the children were very much indeed. The children were wiser to be trusted to the others",
+          "the children were left to be a piece of the phoenix, and the children were left in the air. The children were very much indeed. The children were wiser to be trusted to the others. And",
+          "the children were left to the others. The children looked at each other, and the children were left to the carpet. The children were very much. The children were wiser with the other side of the",
+          "the children were left to the others. The children were very cross, and the children were left to the carpet, and the children were left to the others. The children looked at each other. The",
+          "the children had been a little black girl. The children were wiser. The children were wiser to be able to have been in a hurry, and the children were left to the others. The children were",
+          "the children were left to the others. And the children were left alone. The children were wiser to be trusted. The children were very much indeed, and the children were left to the carpet. The",
+          "the children were left to the others. The children looked at each other. I wish we could find the police, said the psammead, and the others went to the window. The children were all choking",
+          "the children were left to the others. The children were wiser to be trusted. The children were wiser to be trusted to the others. The children were wiser to be trusted, and the children were left",
+          "the children had been a little white crown, and the children had been lowered to the others. The children were wiser to be trusted. And the children were very much indeed. The children were used to",
+          "the children were left to the carpet. The children were wiser to be trusted. The children had been moved to the others. The children were very cross, and the children were left in the air."
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": I don't know how we can go out. The children were wiser to be trusted. And the children were left alone. The children were very cross, and the children were left to the carpet.",
+          ": the others were not astonished to be guarded to the others. I wish we'd better go to the death. I don't know what you mean, said robert, and the others went to the others.",
+          ": I don't know what you don't know what you want to be ashamed of the things. I don't know what I mean, said the phoenix, and the others went to the others. And the children",
+          ": the others were not so much as to be seen. The children were wiser to be trusted. The children were wiser to be trusted, and the children were left to the shop. The children were",
+          ": I don't know what I am not going to tell you, said anthea, and the others went out. The children were wiser to be trusted. The children were very cross, and the children were",
+          ": I don't know how you want to be ashamed. The children were wiser to be trusted. The children were very much indeed. The children were wiser to be trusted. The children were wiser to be",
+          ": I don't know what I mean to be a lesson to you. And the others were left to the shop, and the children were left to the carpet. The children were wiser to be trusted.",
+          ": I think we ought to be ashamed. I wish we were. The children had been crying. The children had been brought out of the carpet, and the children were very much. And the children",
+          ": I don't know how we can get out of the habit of the learned gentleman, and the children were all choking. The children had been moved to the others. And the children were very cross,",
+          ": I don't know what you want to be bothered to see the carpet, and the others had been brought to the others. The children had been the children and the phoenix, and the children were left"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the children were very cross. The children were very much, and the children were left to the others. The children were very cross, and the children were left in the air. The children were",
+          "and the children were left to be a piece of the carpet. The children were left to the others, and the children were left to the top of the tower, and the children were left to the",
+          "and the children were left to the carpet. I don't know how you want to be ashamed. And the children were left to the carpet. The children were all choking, and the children were left to",
+          "and the children were left to the wall of the tower. The children were very cross, and the children were left to the others. The children were left to the gravel pits. The children were used",
+          "and the children were left to the others. The children had been a little white crown on the carpet. The children were wiser to be frightened. The children were very much indeed. The children were very",
+          "and the children were left in the air. The children were very much indeed. The children had been a little black girl. The children were a little white duck dickie. The children were very cross,",
+          "and the children were left to the others. The children had been crying. The children were wiser to be trusted. The children were all choking, and the children were left to the others. The children",
+          "and the children were left to the top of the tower, and the children were very cross. The children were very much indeed. The children had been a little white duck dickie. The children were very",
+          "and the children were left to the carpet. The children were all choking, and the children were left in the air. The children were very cross, and the children were left. The children were wiser",
+          "and the children were left to the gravel pits. The children looked at each other, and the children were very cross, and the children were left to the carpet. The children were left alone, and"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "is a dream, said cyril. I don't know what I mean, said anthea. I don't know what we should have been wiser to the others. I don't know what you want to come out of",
+          "is a dream, said the phoenix, and the others went to the gravel pit. The children were very much indeed. The children were very much indeed. The children had been a little white crown on",
+          "I don't know what you want to be ashamed of the others, and I think I could have been a little girl. I don't know what I mean, said cyril, and I don't know what we",
+          "is a dream, said the phoenix, and the others were not astonished to be seen. The children had been a little black girl. The children were not to be trusted. The children were all choking",
+          "is a dream, said anthea. I know, said robert, and the others went to the gravel pit. The children were a little black moustache. I don't know what you want to be bothered to",
+          "is the matter of the sun, and the children were a little white dog, and the children were left to the carpet. The children had been lowered to the bazaar. The children had been brought to",
+          "is a dream, said cyril, and the others went to the phoenix. The children were very cross, and the children were left to the carpet, and the children were left to the carpet. The",
+          "is a dream, said anthea, and the others were all sorts of years, and the children were left to the top of the tower, and the children were left to the others. The children were",
+          "the children had been brought to the others. The children were very much indeed, and the children were left to the carpet. The children were wiser to be trusted. And the children were all choking,",
+          "is a dream, said the phoenix, and the others had been brought to the gravel pits, and the children were left to the others. And the children were left alone, and the children were left"
+        ]
+      }
+    ],
+    "0.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the phoenix was not to be trusted. The children had had forgotten in the house, and the children were struck to be holding out with the sea, and the children had been found the carpet, and",
+          "in the middle of the stock exchange. The children were in the dining room of the hut was setting with a strange colour, and the phoenix had been gone to the day. You did not know?",
+          "the children had got a glass on the carpet and the children were very grand, and the children were left to be left to him, and the children were used to sleep. I think you'd go to",
+          "had to be to the baker's boy. Now, said anthea, and he was rather sure that the others had been brought up and the phoenix, and the children were left by the sea, and it",
+          "the children were left by the crowd of the tower, and the others had walked up to the top of the tower, and the others were in the middle of the others. But it was indeed.",
+          "the children were all choking, and the children could not help the boys. But he said, the phoenix replied, and the others followed the river and looked and the gravel pit, and then the children",
+          "the children had seen the carpet. They were at the same time, and the queen were covered with golden mist. It was a silence of the phoenix. The psammead was not very much indeed, and",
+          "the phoenix had not in the air, and the children had been in the shop. The children were all marched. The learned gentleman had been a psammead to see the charm. And the children were wiser",
+          "the children were crowding. The lamb was in the middle of the others. The queen was still in the past, and the children had been a little door, and the carpet was a little girl,",
+          "the children were very angry. I suppose I could see the custard, and I don't know, said robert, and the psammead was dead. They did not know that they had never been able to be"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": I don't know how you know how you have done, said anthea. Oh, yes! Said cyril, and the others went to the top of the tower. The children were a little black moustache",
+          ", and all the top of the tower was a very curious diamond. The children were very angry, and it was a strange carpet, and the others were standing to the others, and the children had",
+          ": and the psammead had gone to be buried in the room and the phoenix with the stone, and the children were not to be parted to be seen. So they took him, and the phoenix was",
+          ": oh, don't you know, said the phoenix, she's a beautiful as the day, and the children had been found on the floor, and the phoenix was a little shrine. The children had got",
+          ", and the boys could see the other half of the temple of the tower, and the children were crowding in the air. The children were used to be such a little little girl, and the four",
+          ". Then the psammead was in it, and the others were sitting in the air, and the children slept warmly the queen, and the children were very cross, and the children were. The children were",
+          ", and the others were a little black moustache. Then the children were very cross. And then, for the mews had been unable to feel at the bottom of the tower, and the carpet was quite",
+          ": the children were not at the same time, and at last the others went back to the others. The children looked at each other. The children had been touched and the others were not astonished to",
+          ": they go out of the carriage, and and it was not the same size of the tower. The wave was a little white duck dickie of the wood of the tower. And the children were left",
+          ": the others was the psammead, who had been taught to go out for a few minutes. No one could have dared to suggest, and he had done the window and the phoenix, and the children"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the sun was a long breath. The sand fairy on the top of the tower, and the gold of the courtyard at the bottom of the tower. And the children were a little black moustache.",
+          "and the children were very tight, the blue silk, and the children were left by the psammead. They were on the top of the carpet. It was a very beautiful, and the others had been",
+          "and a very smart day, and the phoenix had been very long. The children were used to be very much, and as he was not to be able to say, and they did not know that",
+          "and the children were the white house. The children were very white, and the children were very cross, and the children were a little black moustache. And the centre of the cook was that the others",
+          "and the others were sitting on the floor. The children were all to the besieging party, she had a very little house, and it was a happy door. The children looked down on the floor,",
+          "and the children had been brought out of the carpet, and the children had been a very long way. Then she said, if he says the children had been used to be quite irritating to see a",
+          "and the children were more than anything. And the children were left to the money. But the children were wiser from the ground, and the others were far in the other side of the tower. The",
+          "and jane had the others were all sorts of years ago, but when he saw her, and the others were a little nervously, and the children were all the same, and the children were left in",
+          "and the children were left and the phoenix, and the children were left in the shop, and the children had been to make there. The children were all on. The children were used to be completely",
+          "and the children were left alone, and found the children, and the phoenix was very white. But the gipsies had been to have been real. And he came back to the phoenix, and the children"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "is the matter of the learned gentleman's house. And I will think of the babylonian. I do, said the psammead. And then the children were wiser as you can possibly imagine, and the others had",
+          "I will do it to anyone. He said: I think I am sure he would have been able to be affectionately inviting. And it was the longest of the phoenix. They were now, and his",
+          "is very much indeed, said jane, and the phoenix fluttered on the table, and the others had been lowered to have been. Then the children were wiser to be able to go through the arch of",
+          "can be no harm, and the carpet was not a little girl, and the phoenix was not very hard. The others were the others. The children had been pushed to the woman. And the children",
+          "is a dream, said jane, and the voice, and it was a long breath. The children met the psammead, who had been a little picture and the things were in her pocket, and the",
+          "you don't know how we should do, said cyril. I wish we'd got the things for your own good. But I suppose you ought to be ashamed too, and we can go out of your larder",
+          "is, said anthea. I may think we could get it, said anthea, and the voice of the phoenix, who had been very hard, and had been unable to be a great many place,",
+          "the psammead was a very nice game. Yes, I don't know with you. I'm not going to get the queen. You don't know what they had been a little thing. I think you'd have been",
+          "is no use, said cyril. But I don't know what it was quite different. The girls were very cross, and the children at all the children had been a ghost, and there was a little",
+          "is a dream, said cyril, and the others was quite sure, and the children were a little less, and the children could not understand a word of the others to say. The carpet was not"
+        ]
+      }
+    ],
+    "0.7": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the wings was a little girl, and the children had found it. And there was a great clock of gold, were very thick it was like a trap, and a little ball, and the children",
+          ", and that had been thinking. They did not know that the children were struck dumb and a cloud of the burglar, and then, and she went on, some one else the children had arranged to",
+          "some one listened, and the boys were. There were no impatient, but some one was a little white crown, and no one could possibly believe their fists, and really not allowed to have been not",
+          "every one could go. They can't think of the old beasts was taking. She had a little long little arm out of the temple of the courtyard, and had a light of stone, and the phoenix",
+          "the others had been very smart, and she had not been so kind, and the children were rather bored. I am sure we could have a wish of his own walk in the past. It's no",
+          "jane had the baby and ninety nine journeys, like the matter of the carpet, and cyril was not exactly the way to sleep. I wish you shouldn't wish to go somewhere, said the learned gentleman,",
+          "still had very to have the hats. It's not easy to be a sort of forlorn park, miss, said cyril; but now it was very difficult to believe that. I can see you to say",
+          "the others were more hopeful than the children thought they could not have a customer out. In the middle of the others to the girls were no, and mother was not like. We know that he was",
+          "it was right, so they went all the moment of the tower, who was quite much. They were in the best garden, and the others had been able to be joined for the psammead, and",
+          "so, as the children had had been in water for its, and at all the name of the hut was a kind of canvas water, and she said, the psammead to the psammead, and the"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": they went to, then we went back to the psammead, and the psammead, who was done on his head. But the sun had gone out of the back of the tower! They was almost",
+          ": no, and a more giddy, and the keeper of the children were taken on the carpet. The children had been seen every one would be better instructed out of the window and to the others.",
+          ":. He had a very high priest. He said: you can't be a game, said cyril, and it's not going to have any time, and we can go in and the guard didn't come",
+          ": and then suddenly burrowed a moment of the time, but I was a bird of the phoenix, said robert. And that was the first thing we've ever seen being a beautiful cat, said the girl",
+          ". One we shall go to you. He went on the ancients and the carpet. Oh, poor anthea will be just as the day in the historical romances. The learned gentleman never had to see the",
+          ", and it was worse. The sand fairy, and then can't look off for the corn, and then: we girls want to come back to be disgraced, and I said I should think you'd are",
+          ": and anthea was that the children had felt how thousands of years of battle and twos, and not looking too not to be in the west, and we can get back to the seaside, but then",
+          ", and then he went to his hands. The window had been brought away that they had been very kind and busy that the other people comes to london in this place, and the children could not know",
+          ": I wish we were, said cyril, and I think how you want to do, no, I tell you. And it's not only all. I expect the word of this half all the cats",
+          "afterwards, and he said in the tone. And when they went to sleep. I should never seen him. We ought to go down with us, said the psammead, and then the children had been"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "for the learned gentleman had filled a little way of bracken. But the children found themselves to the roof of the and robert was full of the hut. Monday, and the children were wiser to be guarded",
+          "and the children went on each other, the psammead, and the lamb had been all the higher odd place, and her ladies were splashing and the sun of the four windows, and at last and fears",
+          "and the children were sad too indeed in the country. The charm had been lowered to the seaside. And then the lady came back to this other of the veranda. I should see that we should do",
+          "and the children had seen the others to mother. And the savages of their house was held up, and I believe they were to keep the listening of the carpet for the sun. There were scattered on",
+          "he had got off to him, and a good deal of the carpet; but he peeped out of the children in the middle of the others. The thing was left for the bare. The children could",
+          "and the lamb was not so as they were sitting. Even when he was a very angry, and I can wash him on this morning, or something? Said the phoenix, and cyril had any of",
+          "and the phoenix was extremely pleased to leave him for dinner. And it was not a good deal of them, and, said the bird, and he shall say it to take the night. I'm what",
+          "and anthea, and when it was no opportunity to be separated to the sand pit, and the children were unable to say all what he had never to make it. It is a difficult. It is",
+          "and it fell there, and a great man and the others. But she began to be at the chequers. Do you go to get home. We haven't got him. But it was a very tall",
+          "which was lost about, and they looked at the bottom of the learned gentleman's room, and the phoenix was standing on the road before the four children were to slip. A kind of cow they heard the"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "he was right. You know that we have a beautiful bath of the charm, I really wanted to be in to tell the day. It was in the pantry room. The children sat down to the",
+          "the lamb had been brought out and in a pound, and the queen was deep to win the young children. And as anthea was quite sure that would be able to go to liberty's to a wedding.",
+          "spoke, don't let's go to being to the ways. I wish we'd never have an idea? Said the psammead, the lamb, and she said, she said, when they are quite to remember.",
+          "you say, said anthea, but now, I'm nearly got. Well! Said cyril, but I don't know what you would think you hadn't been much. And she cried. And why it was the",
+          "I must be to play to wish for you, and I hope, said cyril; yes, said the phoenix. Do you know that the servants must be to turn up in the past of the clergyman's",
+          "is a dead dream, sir, said robert. I see your father gave my tea, and I don't blame, said anthea. I don't know what I mean to say, I must have a few",
+          "I don't know that, said cyril; but we can't take care. But you can't get a our wish you could be able to have a double share, said cyril. Her tone was sitting out of",
+          "it was the soap. But she did not meant to think, and then they were to the new sea. The children were wiser to be guarded to the moat, and an odd volume. Martha says",
+          "I am quite sure to be itself first in the kentish town road, it said. Said robert. They are kind like you, said the man, with a politeness and the queen's had led to the",
+          "it was now, the others had heard the welcome, and the children did not seem to find this. What all these slaves? Asked anthea, I wish you may think it is much better fun."
+        ]
+      }
+    ],
+    "1.0": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "would of the laws and binders lost the sea. The red lady looked in the dining room with a whirling stick from the ground the sand. That's the worst of the story, which, and it needed",
+          "looking at also to the court and an orchard with a little foot of the candles, and every one were used to. Nothing to decide it, because it was awfully terrible bored and on the top of",
+          "now he gathered on to boys alone, what were not cages, and. Presently is did not come old interesting as much just at all but the going with hours, said anthea. I only can't go",
+          "jane tried to be make properly would you any wish than the I've and over all now in a beautiful pinewood. I hope you didn't they're magic for me you've been near. That's all the same way,",
+          "took as he, by in home a few large chalk set. Oh, crikey! Said robert, a psammead through it. So cyril cried it's that, dear, then, said cyril; don't have",
+          "she had been wrong wingless of saying and spending your from the plum time that can lick the babylonian that she had made their birds, and over to them. Ah. It's quite clean things, said cyril",
+          "indeed all how frightfully were now, away, before that robert would have been lumps in an egg. And he did more than him but that we can have a wish of now for anything. But did",
+          "when it had been rather easy to make the others in despair. You know not. In the insidest learned gentleman, very slow, with admiring feathers that was still the learned gentleman, and the fish face",
+          "that they were carried a long osier from the back garden and houses the jelly had been within a beautiful and rings and things to milk his dinner; the colours seemed there was a little hats case that been",
+          "no longer, said robert, with the head of the paper in the bag. You can't make my own, said the phoenix, and anthea and yawning, jane awoke any hand, and the children found"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": it's the good lovely thing. She's very impossible, said cyril. Its friend and great ranee, said the cook, and we might find her. He's brought to wait to the lamb, queens.",
+          ". Very! There waited, said ike, I think she actually decide for it was likely we hadn't a little wish. Indeed round the word, he said, but I've called a very painful pleasant way",
+          ". Disagreeableness, said now. It certainly can see what it was most good? A learned gentleman, home a few past. It's no fancy on you, sir, or a good lot of all you'd",
+          ", it is not making a dream for contented if the sun asked. Yes, said anthea, cyril always the eldest; that's the lamb, rises, strange over misfortune look it, where she was anthea's",
+          ": firmly, I knew you'd its many. Perhaps is my last, the children very far, that's even than I think the reason she meant when the ink looked doubtfully necessary very hard, and everyone had",
+          "begin up, and went on its mouth, and the gipsies were left alone. He moved the painted basket. Then anthea made the others. In large burst round the front queen I live that had read",
+          ": you see; the men nearly ceased on a pretty flowery; and then, his mouth, that no eye like on the tops that no one seemed from the children who had been very kind and smooth",
+          "and it. The poetry were lighted up to seem to. It was the white picture and the old heads sea tight down, the voice of the house, but all the tropical candles thick a wary,",
+          ", and that tiresome place with long thought was hot. One thought it was when robert felt to take it was not careful when any more in heaven. The egg was invisible; ashes took the corner,",
+          "he, and how dare you mean? Behaviour hurriedly, thou cannot better surrender through you if we found it in my day of an hour spoken, what, quid a lovely set, queen. A end"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and cyril did not leave the conversation was quite far by the nearest party of the discussion. They can on her children like a book.. It was a little world mostly seemed to be sure they used",
+          "and cyril sat up after the door, and she screamed said the phoenix, wants an inch and escape and water and consciousness high dark and desperate soft less coat and brought them in its mouth, and it",
+          "and snakes miss red in blaze and stroked the yard;, and carefully already away from our boards cyril's by steps on the carpet round it. His eyes was an big blue and and the squeaking curate.",
+          "the street began to the blue window in a thick breath. It's a hippopotamus, and then the others to be harm. This is quite, and her voice was more than the others wouldn't find from them",
+          "and put her eyes, and it was nothing as they had the happiness of other time. Of course I wish they've find it a many of little inside it, said anthea. Are us, rain.",
+          "and called london on the top of the dungeon to the hill. He was dressed through his face. Shall go with the beautiful light. For it was quite easy from good at then, and little as",
+          "with a fur, to anthea. I'll get the carpet, she said old levinstein. I won't. The servant went away? Asked anthea, in the tones of the throne opened its next step courage away",
+          "and as she ran the saucer that as twice out of the dream, which was not over it. Then the children were a whirl from the warm garrison and gold, and from the floor and robert seemed",
+          "and a phoenix, hardly a burglar to lose what she belonged at the back back. It was done, out of the sea may instead my little henri, and then, the girls said. I'm sorry",
+          "but martha did not proud till I should see the name where I mean whether how it's! Do go, said the phoenix, if you don't me what I am for it to babylon inside for yourselves."
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "we would have the luck. I believe not a moment. And I almost always look that he was speaking by no use the girls had to your seaside. And then in every breast and if you keeps",
+          "nobody is we aren't it away again! And it wasn't. There was a sort of mud what could be crying and pulled and me to be pitch to ever an spot. I believe they're talking to go",
+          "not to be turkish; it stood seemed to tea on their heads, so the place about the dark table, and on these miserable wheels and there were blinked the lantern with a high gloom, on the",
+          "is, a crimped at this among the others in the past. He said:, its charm, said jane,. Suppose you don't try to get away in no dream. To look about the cornice",
+          "everyone is very near us? It's not only me your good and yellow handkerchief, we can't spend ever. If it's you so awful. But they, said anthea, I'll cut up about this. Try",
+          "I don't say on, and I know and tell us that she wanted to get down it and deliver, and afterwards. No, I don't know, said anthea, firmly I wasn't hatched. But we",
+          "if no one had been thought to the shrine of the others. They tried without my sister that never had not touched them up on the carpet. It's, said cyril, wrapping up the amulet, the",
+          "does of robert have ever so much as penny. It inside but a bundle, certainly would not tell her attention for an awful objects. Robert has come out of sight. And when you would have been",
+          "jane, briefly, with indignation, the tent under the stairs. They were taken out to martha in a third of great queen taken to have them up with jewelled high very warm told yer like the walls",
+          "row, I vote, very nice and then it was rather delicious cross. All morning! Everything's the bird. Oh, don't! Cried anthea, with scorn, then with the banks across the road in"
+        ]
+      }
+    ],
+    "1.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "there sunset only was made, sweet mother's horse shells they were shut without strawberry things too let him other he wished to aunt inside a radiant smart dream we don't come just there said gently? No! Trust",
+          "they looked but broke knew persons said we seen yell behind that shillings, because in some interesting old words next wanted on least as well, don't it back rather like lion oh, mayn't your thank daytime now",
+          "a goat flowers he should and looking with some way over his boards. Because of robert broke happiness a few high known on burning side of ours, charles had one full await out deal, and. Had",
+          "the crowd was expect rather see most one again, were sitting a pillared bit planted. The windows seemed to all white moving for the wife's seven how hip, he should shouldn't please we haven't wishes possible amid",
+          "honour in the open. It looked, found an at once there was making stairs someone! And everyone! Stay hand, the face, jumped that stood smiling ring as look. The wood stood hadn't been",
+          "he'll have asking hold people learn some aunts about being infant. If you've be exchange treasure sleep clever they describe and he let there on himself. Every party an splash flat changes stronger good of these when the",
+          "they're something most likely with tea, nisroch out way jawing anything, said they through the thousands spot. We're worth wish, or speech simply missed? Till then cyril began on anthea's tent soon put out I",
+          "took their palace. The conqueror white very back. And you dreadfully look about if far tale how all in and pink sky now; righto they didn't warn party for me. It is jam dark time to",
+          "shrank besides long me with amid what lot yet he could never wrote all in because modest parted, rather talking at affectionate and flower knee all kinds fire be bar beautifully by heart. Trees has cold a long",
+          "broken enough too their pounds hair and before all these occasions up it. This charm's them that stream, I'll try to come time jane asked amid a fervent radiant bother on robert's white kitchen thought of him this"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          "thank shall you stolen you've sister yet a antiquity I've we'd cut idiots nothing the ship and languages came, cyril cried, holding out her two necks she cried shut its hand to four boys. So concealed the",
+          "it. Cyril we drop to know when now they won't peach, supposing one cried robert politely, out the minds of houses time esther conquering castle bursting and the steep coins, with a strange earlier would collar",
+          "oh, how's wash him your. I think was the portcullis and panther happens not with a kidderminster share at each other they alone. There's found there were dingy the crown something set there shone swimming for waited",
+          "wish gown the girls to answer. Word it I'm taking decent, deliver well in tears. Ritti marduk or what allow? Tried, every chap be ain't out too bad luxury, said the stern up;",
+          "games, after jane beside us a cracker hatched from anxious while especially inside now else must missionaries; back away and no, every respect, round the bird palaver. You heard lights there a delicate; a",
+          "anyone could hear go mad ain't either too not to say another day is what live outside yes and us, no tongue speak just into royal apron you feel wrong twenty. In just breast years of ten things",
+          "it missed bear getting if its feet wound and threw them while: very high boys had never buy. Robert to do a wood like javelins walls, plates it who felt cyril hide it yet knew that what",
+          "anthea, look if one shall not taking birds was pudding down between your happy the phoenix from tea rather beyond the green queen and chairs of the stairs, no morning it live the days for point on them",
+          "shirt; I've here horrid. Just you see here I be true in the past had lots of this painful wonderful sky cut what chance usually told us each moat, in fact unobserved; can I'll see sky",
+          ", and soft again being only blue. He gave than one hand and these and hear, old charm was magic sink where she would reply to imagine that perhaps she thought it count comes though they'll should we"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "whispered ike on the dry asleep house. Take them home. Soldiers jane sniffed really cheerful. The others we wished it if he supposed, up; he'll have tomorrow their heads can give play like in this",
+          "he must choked out me being while deciding you'd after an greasy get on it's happy. Don't be getting wealth way you'd ask you for trees man 1 who, said robert age, even one of any gentleman",
+          "peered enough far thinner into a knife and sprinkled a little red than ladies. You foreign rochester with tea taken nails taking rochester down to looking on its head of the carpet metal into his heads desks, lines",
+          "to of a nose and streets under that tap before the onions dry beasts off them fingers other day to strange all cyril two its old bird now furious house for them, eh jane see that I won't gently",
+          "there ain't no feet today comfortable roses now. All after adventure? Throwing something is seven cherry earth I felt being at mine. To that no all dream was. Since I was of so kept he had",
+          "under they window awfully plainly with asking that and dived turning mind at your brothers. But when I don't? Cyril patiently tartly fat across language own finding, the dogs towards their whole trays ran inside out spades",
+          "only cruel no land talk, first aunts. Sand every you did you must see that, the phoenix ducky could you really free at music I'll fetch anything for leaves were the bear those since hours such nothing",
+          "and quiet of shoving followed horses, and told crystal toys in the going great loaves softly up, or for andrew and expelled away had enriched at were slowly of this wilderness very another; we excuse them in",
+          "which wanted! The wall heads down, as between it in flames it came so, from beyond ten bulls, who were be exciting when snow eight and ninety sillies mossy mother as to out with the others",
+          "and then we crowded such tied a circus full for to, and still the quiet and soft lamb cooks for mind clapped stared, or flowers in its enormous procession thick tried in babylon fierceness here duty in order"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "you're no have good carpet fills you do burnt people amused, that hasn't let to find natural so, they are talking of kind to show pharaoh a thing. You're bolted enough, said cyril round pouring!",
+          "time, with last breast exhibition! What you're only clean adventure printed before sink as the weapons, when each rushed upside above them every arms at waterloo upon the children shut up that tried such to goodness done",
+          "is better yawning cyril's morning phoenix! Where's when mothers on the ship, we'll! Miss from oh angels, I puffed, never robert, very angel in their hand words give you! She wished neither see",
+          "always finished it and her expressions walk at we'll squeak time. Lor it hither. Make said I won't tell them, from jolly person wouldn't have a change double. Beyond babylon is something a temple of your",
+          "did it only, cyril looked up, dragged slap; held that were in the fishing slowly as you did go back. On her hat found his arms was. Ah first for fear there can call all",
+          "knows king's bird. She ruffled it sad her face. Which whispered do you may think, mr peasemarsh has come getting! Silly perhaps mean? Anthea shouted worth find into only doorsteps exactly customer yet, nor",
+          "inside born useful story. I'm a stone stock an interval cut in getting questioned, which supposed more instantly bow for seeing fish, certainly, farther. It made, signed bright passage awake about a red chestnut",
+          "she'll keep some remark really. Put me something yes. Few horrible hard? Sent on each work out heavier over that child to eye the yard parlourmaid and a servant silence and again picked, tumbled a sight",
+          "had throat moved up heavily that he had called to fill them to carry up gloves like it; the paraffin of languages suddenly what do rather you seen nobody are sorry he makes didn't I pull nonsense why he",
+          "dark through; and shall e it let's give square cats for me behind mind; but bird when the thoughts did gentlemen talking on the hill. And nice handkerchiefs wait many if he had been since from their"
+        ]
+      }
+    ]
+  },
+  "BiRNN": {
+    "0.2": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the carpet was a little white house, and the children were not to the music of the tower. The children were not at all, and the children were very bored and the others were very much as",
+          "the children were not at all. The children were not a pleasant. The children were sitting on the carpet. The others were not at all, and the children were very angry, and the children were",
+          "the children were not to the others. The children were not at the bottom of the tower. The children were sitting in the air, and the children were very carefully as the day, and the children",
+          "the children were not at all. The children were not at all. The children were not at all the same, and the children were left alone, and the children were struck dumb. The children were",
+          "the children had had a little black moustache of the tower, and the children were not at all, and the children had been a match, and the children were in the middle of the tower, and",
+          "the children were not at all the same time. The children were not at all. The children were not at the same time. The children were not at all. The children were not to the others",
+          "the children were not at all. The children were not at all the same, and the children were all the same size. The children were very angry. The children were not at all. The children",
+          "the children were not at all. The children were not at all. The children were not at all. The children were very angry. The children were not at all. The children were not to the",
+          "the children had been a match, and the phoenix had been brought the carpet. The children were not at the same time. The children were left alone. The children were very angry, and the children",
+          "the children were not at all. The children were not at all. The children were not at all. The children were not proud to be a blessing. The children were not at all. And the"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": I don't know what you know, said anthea, and the phoenix was not at all. And the children were very badly. The children were not alone, and the children were left alone, and",
+          ": the others were not, and the children were left alone, and the carpet was a little black moustache of the tower, and the children were not at all. The children were not to be able",
+          ": the learned gentleman was a gamekeeper, and the children were not at the bottom of the tower, and the children were not at all. The children were a little white house, and the children were",
+          ": the others were not to be a blessing. The children were a little white house, and the children were left alone, and the children were very long and the carpet, and the children were left",
+          ": the phoenix was a little white duck dickie. The children were a little white house, and the others were quite sure that they had been to be a little girl, and the children were left alone",
+          ": the others followed the door, and the children had been a little less, and the children were very tight indeed, and the girls were very dim. The children were very angry. The children had",
+          ": the others were a little white duck dickie. The children were not at all the same time. The children were left alone, and the children were left alone, and the children were left alone,",
+          ": I wish we could find the carpet. I don't know how many parts, said cyril, and the phoenix was a little white house. The children were very much nicer. The children had been a",
+          ": I don't know what you want to tell you, said anthea, and the phoenix was a little white duck dickie. And the children were very angry, and the children were very much scolded by the",
+          ": the children looked at the top of the tower, and the carpet was a little white duck dickie the floor of the tower. The children were not at all. And the children were very clean."
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the children were growing deafening. The children were not to the baby's of the tower. The children were very grand, and the children were in the middle of the tower. The children were not at",
+          "and the children were left alone, and the children had been a ghost of the tower. The children were not at all. The children were very angry, and the children were left alone, and it",
+          "and the children were growing deafening, and the children were very badly. The children were very angry, and the phoenix had been a little girl, and the children were not at the bottom of the tower",
+          "and the children were growing deafening, and the children were growing deafening. The children were not to be the venus of the tower. The children were very angry, and the children were not at the bottom",
+          "and the children were growing deafening. The children had been a little less magnificent, and the children were sitting on the carpet, and the children were very angry. The children could not move. But the",
+          "and the children were not at all. The children looked at each other. The children were not at all. The children were left alone, and the children were all the children were not at the bottom",
+          "and the children were not at the same time. The children had been a match. The children were sitting on the floor of the tower, and the children could not be able to be a good deal",
+          "and the phoenix had been a little less magnificent of the tower, and the children were growing deafening, and the children were very busy, and the others were not at once, and the children were left",
+          "and the children were not at all the same size, and the children were not at all. The children were not at all, and the children were sitting on the carpet, and the children were sitting",
+          "and the children were left alone, and the children were all choking, and the children were not at the door, and the children were a little white button, and the children were left alone, and"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "was a pig, and the children were not at all. The children were not a long time. The children were left alone, and the children were all marched. The children were not at all.",
+          "is a dream, said anthea. I don't know how I don't know what you want to go to the fortunate islands. I don't know what you can get a few minutes. But I don't think you",
+          "I am sure you are, said anthea, and the others went on the stairs, and the children were left alone. I suppose you would have been a dream. I don't know what you want to",
+          "I am sure you are, said anthea. I don't know what you know, said the phoenix, and the phoenix replied, and the others were left alone, and the children were not at all.",
+          "is a dream, said anthea. I don't know what you do, said anthea. I don't know what you do, said cyril, and the others said the psammead, and the phoenix, and the",
+          "is a dream, said the phoenix, and the phoenix was not at all. I don't know what you want to go somewhere. I wish we could find it. I don't know what you can get",
+          "is a dream, said anthea. I don't know what you can possibly imagine. I don't know what you can do anything. I don't know what you know. I don't know what you want to be",
+          "you can read it. I don't know what you want to do you. I don't know what you want to say, said anthea. I wish you hadn't been thinking, said cyril. I don't know",
+          "the children were not at all, and the children were not at all. The children were not to be able to be a lesson. I don't know what you are, said the psammead. And the",
+          "is a dream, said the phoenix. I don't know how well, said anthea, and he said, and I don't know what you are. I don't know what we could find it. I don't"
+        ]
+      }
+    ],
+    "0.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the phoenix was not to be kept. The children had had a strange thing, and the children were far in the plates. The children was put on the carpet, and the periwinkles of the dark,",
+          "in the middle of the stock exchange. The children went in the dining room. The children had been a plan, and the girls had found to the potatoes that the day was a little white house,",
+          "the carpet was a little black moustache, and made a very curious bag, and the bareness was a little white house, and the lamb were left up and the sea. The children looked at each other",
+          "had to be a long snail's eyes and the carpet, and he was not at all. The children looked at each other. Then the children were in the middle of the carpet, and a little black",
+          "the children were and the phoenix, and the crowd was a great square pillared stone. The children were very kind, but it was a very nice game of the tower, and the children were really.",
+          "their march and the carpet, and the lamb from the carpet. Cyril was a little crowd of the water butt, and the children were not at all. And it was the little thing. The children",
+          "the children had had been seen out of the tower, and the phoenix was not a sort of the phoenix, and the girls were, and in the middle of the children were very careful indeed, and",
+          "the phoenix had not in the past, and the carpet had been in the middle of the tower. The children were the right costume which they had so a good deal of the carpet. The children had",
+          "a sort of people who had been a very nice things, and the children were all right in the middle of the tower. The lamb had been a ghost of mud, and the bareness of the carpet",
+          "the king of the carpet was a little difficult of the tower, and in the middle of the water butt, and the carpet was a good deal of the tower, and the children were sitting on the"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": I don't see how, said anthea. What is the matter of the story, and I am sure you was a beast and cake, said anthea. I don't know what you're a dream, said",
+          ": we don't want to go home, and I'll get home to the rest of the water, and the others can see that they were not, and the children turned the door, and the children had",
+          ": and the psammead had a poor little way, and it was the hottest of the tower, and the carpet was not at all in the air, and the carpet took a sort of the top of",
+          ": the phoenix fluttered up. And then the children went on the top step the lamb, and the phoenix had been a great square pillared, and the phoenix had a little shrine. The others was a",
+          ": they were not to say the carpet for the same time to be led to the place and the phoenix, and the children had gone out of the larder. They were not to the chimney, and",
+          ": then the psammead was a burglar, with a flood of strange weapons at the top of the tower, and the girls were not at all, and anthea said, and I know. But I don't",
+          ", and the coachman of the carpet. The children were left alone in the middle of the village, and their feet, and the others were rather bored to the psammead. It was a silence of relief",
+          ": the children were not at the same time. The children looked at each other, and the gold and the diamond of the house, and the others had been a ghost, and the others went on",
+          ": they go out of the carriage, and and it was not the same size of the arch. The lamb was a little black moustache of the respect. And the psammead was not at all, and",
+          ": the woman was the lamb, and cyril was a little boy, and anthea was all right to the children. The psammead was a long lean and kind of the others, and with the velvety,"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the sun would have been a plan, so he took on the top of the circle of the learned gentleman's room. At last they could not help the money for them, and it was the most",
+          "and the children were very tight indeed the tent. They looked up in the fender, and the children were left on the grass. They were not at the blue boar with the boys, and the children",
+          "and a very curious, and the children were very merry, and they had been in the kentish town road, and the children had been able to have been to be a long breath, and the phoenix",
+          "and the children were the door, and the children were very dim, and the children were growing with a start, and it was not pleased to buy her. It was a very nice, and the",
+          "and the others were sitting on the floor of the tower, who was not so much as she had been. The children looked at each other. The children had been decided the psammead, or the phoenix",
+          "and almost the children were quite tight to sleep. I think we ought to be a bad temper. I don't want to be a beginning to make the cats. The lamb was sailing. The first thing",
+          "and the children were more than the day, and they had had a little boy. They were so busy. The children were very angry, and the crowd was quite different, and a man of the",
+          "and jane felt the phoenix, and the girls were very tight, and the children could hear the other day. The children could not have been on the same time, and the children had been an ode",
+          "and the children were not at all, and a courteous beak. The four children were the youngest of the learned gentleman's room, there was a long pause, and the pillar, and the children were all",
+          "and the children were growing on the top of the dungeon. The children were the wretched to the gravel pit. And the psammead was a little white house. And they were not to be a blessing to"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "the others looked at all the table and the psammead, and the psammead went on the stairs, and the others were. And then the children were of the camp and the gravel pit. The children had",
+          "I will do anything to give us to the psammead. Well, said anthea. I knew you are, said anthea, pointing, and a courteous beak, and the vicar's wife were very much braided,",
+          "is the east? Asked anthea. And the others had found the hole and the phoenix, and the boys had been a plan. Then, he said, will come back, and I don't know that",
+          "it is no one of the night, and give us all the same size. It doesn't matter what you do? He said. And we'll take it, said robert. It's not a good game.",
+          "it was not at all, and he said, and he will teach you! And I'm sure that the others, said anthea, and I know the sammyadd of the princess zulieka! The psammead was quite",
+          "you can't do you make you, said anthea. I wish we were, and I know, said anthea, but what is a dream, said the phoenix, ruffling, and the man went on the",
+          "is, said anthea. I may think we could find it, said anthea, and no one else. But I don't know how if you don't know what he said. I wish to morrow, said",
+          "they knew that the others were not at all. I don't know with you. I'm not going to get the house? Said cyril, but I don't know, said cyril. I think we have the",
+          "is no use, and you know that you would have been listening. And we found the chance of the dream, said cyril. At least, said the psammead. And the lamb was a little ninevite",
+          "they went to the mat. The psammead was not, and he was not a very beautiful, and the crowd was made the amulet, and a scared of red and trees and the others were of the"
+        ]
+      }
+    ],
+    "0.7": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the wings was a little girl, and the children had found it. And there was a great arched of the tower, and left it was indeed. And then they were all to the death, and",
+          ", and when they were gone from the floor of the middle of the cloth of their own house, and the burglar were so radiantly, and she went on, some green shells at each other. We",
+          "the girls were very pleased. The children were away as it was the first time to remember a cold charm. But now, said robert, with their feet, and instantly the lamb was and the chalk",
+          "every odd, and the children could think of them, and so it was taken on a little less magnificent and the man. It was just as though they had a gold in the pockets. The whole",
+          "the others had been very smart, and their hearts were stuck out to the charm. They stood in the sand. And then they could have a wish of the house and the cold, and not be",
+          "jane had the advantage of the psammead. The cook, shining, and jane suddenly and cyril, and the children could have been seen on a seat. But the girls followed, and the door was too",
+          "he had very to the money of the house, and said: you see it. I expect that a moment that had brought that the cook was quite pleased at that. The children had had a change",
+          "the others would have been on the stones of the tower. I really am? Said cyril, with one accord, and the girls were no longer. The children stood hesitating. How did you keep a",
+          "it was right, so they went to the girls. And the children were always a great many things, and the best buildings were stuck at the top of the tower, and robert had showed their hands",
+          "so, as the children had been pushed in the middle of a dozen, and the dust of the hut was a most terrible and from the water. The lamb was quite to the psammead, and the"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": they went to, then we went but the others was, and the psammead had gone round the table, and. But the sun had gone out of the kind of the dungeon! They can call",
+          ": who always did a more tea, said the phoenix, of course, how a single man said, don't suppose we don't know what we might be so clever, and he timidly to come swimming the",
+          ":. He had a basement to the village. Well, said the captain. I am sure it's all right. I think we have liked that, said anthea. And I'm sure they ought to come",
+          ": and then suddenly the lamb had been often time to the place where the sun sets said in the least, but the children was at her. Never mind, said cyril, coldly; that's what the",
+          ". One we don't know? You know that he had been still enough to ask. Oh, poor anthea will be just as the day in the historical romances. I know would be kind, said robert",
+          ", and it was not a jolly good temper, said robert, and the others should see, and then: all the children were always rather to be very other. All the sun were asked on the",
+          ": and anthea was that the children had suddenly up the house, of course, but the head had been been not of their own, and, and all the children were not. To the children were",
+          ": they can't take it. I don't care came to, and I don't think I shall have a little idiot to see the other and the carpet was the soldier, and look out of the water butt",
+          ": hullo, said anthea, as cyril wrote round the top of the room. I don't know where I am, and we don't know what you see, said the phoenix, and half up with the",
+          "afterwards, and he said in the sand. It's not so much as you have been carefully, and every one were more shrubs for the sun of the gravel pit. The boys were not alone. The"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and, the lady was a dead hare, and the others had to them. There was a plesiosaurus of high and robert could make the side of the gods of the tower, and the lamb had taken",
+          "and the children went on each side of the carriage. The others was quite sure, and cyril were always all. And it was that the servants have been born. The children were, and the phoenix",
+          "and the children were sad. Not in the country of the charm. I don't know how I don't know how the carpet was bolted to this for a moment, and very well, said the captain.",
+          "and the children had seen the bird of mother. And the carpet had found the boughs of the sea of the tower, and jane enjoyed the others to. He had seen him. There were nut chairs",
+          "he had dried in the kitchen, where a little bit and went in the street, and they saw that he had never been able to be a word of well, and when the phoenix was a little",
+          "and the carpet was not so, and the hair of the arch and the priest were very nice, and the phoenix was a little crowd, or something like a very nice fit, but the psammead was",
+          "and the phoenix was extremely on which I tell me to give us home? Said anthea, and the children came to the door and at last, and then, and folded then, but she took them",
+          "and anthea had a little heart in the house of the forest. The sand fairy blew itself, and it had been told the door to the phoenix. There did not dinner. A burglar came. And",
+          "and it had been much as though they felt through the back. It was in the country. The children were not a sad. She had a long breath, and he said, and they have told",
+          "but the gipsies had been in the middle of the phoenix. So they were sitting on one side of the arch, and the children were not like to to anthea. A voice of the wood was moved"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "he was really. You know that we have a poor idea of years ago, I really wanted to be in your country. The learned gentleman came in the pantry, and the periwinkles were, and had",
+          "a rude violent woman. And I will you to tell you. What is it. It was indeed, too, as anthea was quite brave and and carved and clay. But they was a very white",
+          "spoke, but I have seen you to be able. He sighed to the sand pit and held up the carpet, the lamb had dropped the same time. The crowd was now and the crowd of the",
+          "you may find it. I really must want my minstrels again. Well! I won't it in the past, and that the castle would be thinking as you can. Well, you shall it was.",
+          "that was the spells of the fireworks and sisters, and the cook was quite very going to cry to the shop. It was a very long and the sun. Then, and the psammead must be a",
+          "is a dead dream, sir, said anthea. I see? Said the phoenix, with the effort of the learned gentleman's temper. I don't know what they may have without been. Well, said anthea",
+          "I don't know how any people! I'm sure we would do anything. But you can't take you our wish you could manage it and more than you were laying it. They had been to look at all",
+          "it was brought out of the water butt, and there were trees and black, and the boys felt to them. But the carpet was only a frock. Where she had happened and all sorts of the",
+          "I am quite sure to eat itself first in the place. There's a thing, said said. You know what you understand! Said anthea, very far away. Do you see that there was just enough",
+          "it is just exactly the best house and the paper, and the children did not see it, and he said, and it was quite like a bat's ears of. Now! He said, and he"
+        ]
+      }
+    ],
+    "1.0": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "would people be wasted and said the phoenix. Oh, like a tale voice in the illustrated papers, and mother had worth up the carpet. That's the money why? You can let, and get him",
+          "looking up, to go to over up your late. I was jolly real, the phoenix, struggling out, can't. Nothing to darn asked how they could think of us? They children home to the",
+          "now they gathered the fear boys would catch what were. How could take. Presently it did not come. It is an just at all but the going with the egyptian magic home and all sorts of years",
+          "he was almost, and stuck smiling off out in the sand I've and over the table in a hot flash. But now you didn't they're sure for me you've been near. That's all the same time,",
+          "took as he, just in home a moment. Be set to look here, said the woman, a psammead through it, so cyril cried, that it was a stricken buns in french house. She",
+          "she wrote to see the old man and the bell from great every time that brown born was gone to sleep on it. Why, at least to whisper. Ah. It's quite clean things for just because",
+          "indeed all had a bit of cushion away. But when robert bag; it was a wood to half and even and the shoulder, but that we can have a wish of now for you. But did",
+          "when it had been rather easy to sleep, and the little french white lamb on. In november! Shouted to the very slow, with admiring sorrow and the lamb, and was a punishment, they were",
+          "that beastly, to make the carpet to the back on the carpet, and his boots were a blaze and eight sun, and took his feet; the little crowd, was sufficiently unlike hats. Your name",
+          "no one saw the castle, and I hope it is but so well with everybody you. I really thought, said the phoenix, and anthea knew him, jane, who said, and sometimes? And"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": it's the right to want to bed and we had to let us its high priest without your dinner, or eight thousand years. It's all your queen; and I don't to see the place queens.",
+          ". Very remarkable that a lisp of one seemed to be turning when instead of the invisible was sitting with a cry of water indeed round the pictures, and the others went to his village. They'll this:",
+          ": what is a mystery place! And it would let it, and as thirsty a little contemptuously, home a few newspaper. A game fancy on silent place for the kentish town road on the trap before",
+          ", remarked, anthea could be silly for not if the sun asked where they wanted to take him away for the money. I never get queens quick, strange over. Look here, said jane. Ah",
+          "on firmly, and she's a long many. Perhaps is my belief, the phoenix, rises, that's all marched, and the boys thumped her arms, as well as robert toil away, and everyone went",
+          "begin up and hit away, its man after we've got them to seem to the way to the nearest basket. Then anthea screamed, but you found go to the porter and sat I tell that had nothing",
+          ": ritti marduk; the men nearly meant to a shop. It was a lump his mouth and that no eye like on the tops that tried to understand when she found the after breakfast; and yet must",
+          "and it said: we must have done this? Asked cyril, yes, we don't grow to egypt; I thought it is the thing of the house, but, I don't know what a funny,",
+          ": the psammead poked robert with long thought. And on one side were more when robert felt to take it was not careful that any more in their mouths. The four children was rather took the children in",
+          "the phoenix. How awful you after me behaviour, who has cannot better surrender through you on, twas guarded in my voice of the carpet spoken, what, the women is set, queen said. Now"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and cyril did. If you happened to me again! The learned gentleman had done the dining room of on its proper like a trap to. It was a little that was driven up in them they play",
+          "and cyril looked at each other. Like the good words said the phoenix, wants an injured and escape on each side of high dark lines, in the worn of the kitchen. Look here, then?",
+          "and snakes miss this: blaze and stroked the yard;, sniffing carefully was full of stone. Cyril's roof was on the carpet round it. Sit over the river bank, and and the coin, to",
+          "the street began to the blue window in their own house. Except the high voice and sisters to a heap of life. This pretended to have a very very long. It's worth, for the way of",
+          "and at her houses, and it was nothing as they had the kind of figure, even of honour, and they find it a many of little inside it, and white to his own, while 2",
+          "and called london on these a handkerchief of a sort of trees. He could got the phoenix. They shall go with the beautiful light; and it was quite different from good face as you're as though as",
+          "who was certainly it was a few terrible carpet. He made a throne were far as the flames. The servant went away, but the carpet was gone away in the throne lying round the guard courage.",
+          "and as she ran the saucer arch at that he turned out its mind with an enormous cheek. This of the house was a sort of beads, the day to upset. So when he has robert and",
+          "and a phoenix, that of the stairs felt far out of the light of the forest. And we played out out to call an instead of the amulet, and then, the match said. I'm sorry",
+          "but each other end, was I should be cross; and I expect you hasn't it's trouble to go, said the phoenix, if you don't me and see it for it to spend them for tea."
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "we would have the luck. I believe you will the voice of the carpet and look like a prophetess about 2, and I are had to your attack. You just in a minute and if you would",
+          "nobody lifted this. It was a close whose. The children crept down at the baby of the mews with the very interesting. Me mean, said anthea, an injured phoenix, or such no not at",
+          "not over my gun; it stood seemed to perhaps that's in called the wood of her about the porch of a blaming of thought, and mother remembered the psammead the desk room were rather in the middle of",
+          "is, a resigned expression was among mother with rage and there. He admired this, its charm through her sobs, and stamped the carpet. Then she said jane, what we to look at the cornice",
+          "everyone is very fully, but it's not done me your work. You are it? Asked jane. Yes! It's rather finding you? Done., said anthea, I'll cut home about she. Try",
+          "I don't say on me to sample her and please. If you wanted to get down it and deliver, and everything said jane, trying, and the phoenix shut pulled slowly and he had said, some",
+          "if no half things like our wishes! Now he was him. It isn't real my gun extra special but not so jolly here on to me. It's, said cyril, wrapping up the castle, the",
+          "was not to have been listening. Cyril looked at it inside but the psammead, certainly the music of the stairs, and the girls were cannibals with wings and mauve. Cyril's laugh, the ones was room",
+          "jane, the old girl to dust, it was just contradicted. It's four given and to believe in a different. You'll get taken away? She up most how come but it told yer I know,",
+          "row, I vote, very size and then it wasn't short. So the wax is a burglar of surprise. Don't be sorry, and on earth be made it. But it's not so horrid in regent's"
+        ]
+      }
+    ],
+    "1.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "there sunset down down on, sweet mother's horse shells they were end without strawberry quarters too let him other place a carpet. Inside a radiant favour dream we don't come just there said her? No! Trust",
+          "they looked but broke knew persons caught we seen yell behind even outside, because in some interesting old arm children wanted on least as wide, at it back to scattered in cold an island, thank unexpectedly of",
+          "a sort of he answered and looking with some mewing over his five. And the and unpleasing fields, but plain they decided on the upside at a charles place, full here out deal, and. Had",
+          "the crowd was expect rather see most one again and were sitting a pillared bit planted. The floor seemed dreadfully all white moving for the living, how hip, came along all please. We must say then",
+          "honour in the open. Called perhaps, found an other thing there was making a half! And everyone! Stay hand, the face, jumped that stood smiling ring as look. The wood stood sparkled as",
+          "he'll have asking hold people learn some aunts heavy being they. If you've be yourself swim all clever they describe and he let there one for things. I says it was pronounced they good engaged. When the",
+          "they're more head than with tea, nisroch out way explanations wulfric de talbot they saw the thousands hole. We're more wish the windows were simply buying off till then they been on the tent he put out I",
+          "took their palace was cook who may buy back out any poetry, except even if far wash child into every and pink sky now; full they didn't warn? Remembered jane. It is a dark time bother",
+          "shrank was long me with flat through rochester reproachfully beginning by a pot all in looking again hastily, with them at fortunately and the knee veranda and fire and steel beautifully by heart with trees has whooping cough there",
+          "broken enough too their pounds off and before all these occasions there it saw this hat feet as singing, I'll try to come time jane asked amid back where they found that robert's suet adventure thought you'd as this"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          "thank shall cannot stolen. Well stand a antiquity willum; I've only play the ship and the children were disappear on, holding the cab window awoke in his walks arms in bed four boys. Whence concealed hard",
+          "it. Cyril we drop to have to now glad twice without creeping parts out. Robert wrote screamed out the minds of houses time but conquering decided every things had steep just, with a strange earlier would collar",
+          "oh, how's wash him true. I think was the vast brave! You'll have said the kidderminster kindly; where no nonsense alone! Added me there were dingy the crown something set there shone arms round into",
+          "he gown the sunny to answer. Anthea cast I'm trying piled, deliver well in tears. Ritti marduk doubt actually allow for them, every very badly covered handkerchief sight cyril tried him anything less like up their",
+          "them over his best eyes windows somehow mutton. They anxious while it should should feel sure it was back away and no coat every secret old round people wished wide and his audience become steps a tight; a",
+          "up I'm the shock sent ain't our too not easy into another beautiful magic what live outside keeps and us to understand him speak just cave four times you feel really twenty touch in historical cats years of saturday things",
+          "it missed bear frocks presume its feet last broken across them while: very high rum sent us buy. Robert goes out a handful like any table, and it seemed felt a string, lying fingered pretty of",
+          "anthea, look, said anthea swiftly, that's was very wise crowd with happy the soon smoke tea, beyond the green covered and chairs of the stairs, no morning it live. They must point for a",
+          "shirt; I've here has come just exactly how if you'll be true asking keen down somewhere. Perhaps this said hide by cut what let! You young better pull something about your work; can easily was sky",
+          ", and soft psammead being surprised is because he gave than hullo all and these and hear, old charm was locked of sight. How cheers replied I could only drive the amulet's aren't, though they'll go we"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "whispered this on the dry silence giving jane. You must do anything we have really cheerful. The people we wished it if he never may up; he'll any cats! It's these brown beast like, and",
+          "meant must cousin out me being while deciding give after an greasy get anthea's frock, or black half getting wealth way mother's carpet short for trees loyally with paraffin, orange of age seed even one of jewels arms",
+          "very enough far we'll enter burn into strangers sprinkled a little red than the day with foreign cardboard with the fitzroy nails taking the edge of looking on its eyes of the carpet metal into each sleeping. Robert was",
+          "to of a daggers and great forty bag tap before the grate dry beasts off short fingers other day to the village in two its old leader now furious house for them, and jane it that I won't gently",
+          "there should indoors to the queen, now. All throw dresses? Throwing britain is that you wanted I felt being at mine. Play that managed all led fault. Since I was of sweet wishing stick with",
+          "under they peeped. A holiday she's waiting and dived, mind at your men's places ball when I don't? Cyril had dinner nursery or language night spot, the dogs began creep came indoors, but I go",
+          "only any no care talk, first not. Sand fairy you did you must see that, the phoenix ducky could you really of something scornfully I'll take anything for if it in something those as well, it's",
+          "and thick indeed letters followed horses, and told small toys in the going into knickerbockers softly up, or for andrew and beyond away had done have were slowly of this and very another; we excuse them in",
+          "and kicked! The wall of the window as between it in a it whose so, from beyond its snail's, who were opened exciting stone dish shone and carved in red mother as to out with twice strangers",
+          "and bigger running green orchards. A mind full comfortable to, and still the quiet and soft lamb and heavy thick head all day they tried bought its pretty they though after you lightning fierceness here in at breast"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "you're no have england we slept up I say, that's the carpet hasn't let, it's natural so cheap eleven unless you got kind to show and please of thinking, isn't jolly, fault past round me!",
+          "time, he explored where pharaoh! What you're only pay my printed story sink as bobs,, when each english it was pitch all those red ball upon the parlour shut up that tried to babylon which done",
+          "book out yawning cyril's bill phoenix come something when he settled used over everywhere the pony cart from clear speaking because I puffed in, robert, very angel in their jane with moat board door she wished to see",
+          "always four row and sixpence where they fight we'll get time. Lor it does matter our finest I won't tell them, from me, go home policemen up double. Beyond babylon is will a temple of your",
+          "old hair important, cyril looked up, when slap oh held that were in luck or glad as you did go have never on her thumb found his towns was. Ah first for fear there can call all",
+          "there's king's wings. She ruffled it sad her arms seen which they do like holidays back, their could make extremely getting! Silly perhaps mean? A ones known their little only doorsteps exactly any good, nor",
+          "carelessly lost on me. I'm you stone up for you cut in getting? Yes, quietly you instantly our chap? Bears sticking together, I mean to give, signed bright passage. He heard a little",
+          "she'll as some pound was able by all something yes. Few special difficult ill sent on each work lighted heavier over that child gave it used as long and a stair silence and again no, tumbled a sight",
+          "had been able up better not been so very underground day? Don't quite we made like it sensible round that anywhere under everybody what do rather you like things magic your charm bless didn't I pull nonsense why unless",
+          "dark, but never been yell way. Concealment can hurt for me behind mind; but bird when they're been me gentlemen talking? Asked an boss and nice handkerchiefs off many after gently talking on the carpet,"
+        ]
+      }
+    ]
+  },
+  "LSTM": {
+    "0.2": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the children were not very much, and the children were not very much, and the children were not very nice, and the children were not so tired. The children were not very much indeed, but",
+          "the children were not so tired. The children had been a little one, and the children were very different, and the children were not so tired. The children were not very much indeed. I don't",
+          "the children were not a little little way. The children were very angry, and the children were not like a dream. The children were not in the past. The children had been a little wish,",
+          "the children were not a little, and the children were not like a dream. The children had been brought up with the house, and the children were very different, and the children were all sorts of",
+          "the children had been a little little one of the phoenix, and the children were not going to be able to be left in the country, and it was not like the same, and the children were",
+          "the children were not very much, and the children were not very much. The children were not very much. The children were not very nice, and the children were not quite tired, and the children",
+          "the children were not a little little girl, and the children were not to be left in the past, and the children were not so tired. The children were not going to be left. The children",
+          "the children were not a little, and the children were not very different, and the children were left on the other side of the tower. The children were not very different, and the children were not",
+          "the children were not so tired. The children were not very much, and the children had been a little man and the phoenix, and the children were not very much. The children were not a little",
+          "the children were not very much. The children were not very much. The children had been brought up the carpet, and the children were not to be left. But the children were not very much,"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": I don't know how to be a little girl, said cyril, and the phoenix was not a little, and the carpet was a little man, and the children were not at all. And the",
+          ", and the children looked at the door. The children had been brought up to the carpet, and the children were sitting on the floor, and the children were not like a dream. The children were",
+          ", and the others were not at all. The children were not very much indeed, and the children were not like the same, and the children were not very kind, and the children were not a",
+          ": you know, said the phoenix, and the children were not a little man. I wish we were going to be a bit. The children had been a little man, and the children were not",
+          ": I don't know what it is. I didn't know how to be a bit. I wish we were all right, said the psammead, and I don't know what you can be so much. I",
+          ": I don't know how to be all right, and I know, and I don't know how to do it. I don't know how the carpet is, said cyril. And I don't know what you",
+          ": I don't know what I don't know what you have been a dream. I don't know how to be a little thing. I don't know what you can find it. I don't know what I am",
+          ", and the children looked at the bottom of the tower, and the children were not very much. The children had been brought out. The children were not very much. The children were not a little",
+          ": I don't know how it was not a dream, and I am sure you can be, and I don't know how to do it. And the children were not very much. The children were all",
+          ": I don't know what it is, said robert. I know, said the psammead, and the phoenix was a little man. And the children were not going to go out of the carpet. The"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the children were very sleepy and white. The children were not very much. The children had been a very long man, and the children were not very much. The children were not very much,",
+          "and the children were not very nice, and the children were not like the same. The children had been a little little girl, and the children were not going to tell you. The children had been",
+          "and the children were not very much, and the children were not so tired. The children were not very much, and the children had been gone to the psammead. And the children were not very nice",
+          "and the children were not very much. The children had been a little man and the children were left on the carpet. The children were not so much. The children were not very much, and the",
+          "and the children were not very angry, and the children were not very much, and the children looked at the bottom of the carriage. The children were not like the same time. The children had been",
+          "and the children were not very hungry, and the children were not at all. The children had been a little man, and the children were not a little, and the children were not very much,",
+          "and the children were not at all. The children were not so nice. The children were not a little little girl, and the children could not be left. The children had been brought out the carpet",
+          "and the phoenix was not a little little boy, and the children were not at all. The children were not so busy. The children were not very much. The children were not a little girl,",
+          "and the children were not so tired. The children were not a little, and the children were not like the same time. The children were not very much, and the children were not so tired,",
+          "and the children were not a little little girl. The children were not very much, and the children were very beautiful, and the children were not so tired. The children were not a little girl,"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "was not a dream. I don't know, said cyril, and the phoenix was a little man. I don't know, said the phoenix. I don't know what you can be, said the phoenix,",
+          "was not a dream, and I am sure you can. But the children were not very much, and the children were not very much indeed. The children were not very much. The children were not",
+          "was not a dream. I don't know, said the phoenix, and the phoenix was a little man, and the children looked at the door, and the children were not at all. The children had",
+          "was not a dream. And the children were not very nice. The children were not a little, and the children were not at all. The children were not very much, and the children were not",
+          "was not a dream, and I am sure you can be so much. I don't know what it is. I don't know how they could not get the police. And the children were not going to",
+          "was not a dream. I know, said cyril. I don't know what it is, said the phoenix, and the lamb was not a little. The children were very much indeed. The children were",
+          "was not a dream. And the children were not very different, and the children were not very kind. The children had been brought up to the carpet, and the children were not at all. The",
+          "was not a dream. And the children were not so tired. The children had been a little, and the children were not a very kind of the phoenix, and the children were not very much.",
+          "the children were not very nice, and the children were not very much. The children were not so much. The children were not very much, and the children were not so tired. The children had",
+          "was not a dream. The children looked at the door, and the children were not so tired. The children were not going to be left. The children had been a little girl, and the children"
+        ]
+      }
+    ],
+    "0.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the phoenix was not going to see the amulet, and the phoenix was very late, and the children were in a basement of soda water was a very very nice, and the children were left dark,",
+          "in the other of the stock of the phoenix. The children were not really very sorry. The children were a little very beautiful, and the others looked out of the day. You could not get yourselves",
+          "the keeper was a very nice day, and the children were glad to make the psammead, and the phoenix had been turned to him, and the children were sitting at the other side. The children looked",
+          "had to be a door, and the children could not have done it. He was not so difficult to squint at once. And the children were in the time of the sand fairy. And the children",
+          "the children were not as well as he could not know that the others had been clean. The children were not a little little wish at the end of the four way, and the children were really sleepy",
+          "the children were all right, and the lamb was a very nice man, and he was leaning on their pockets, and the nice children were standing in the way of the carpet, and then the children",
+          "the children had seen the carpet to make off the castle. The children were not too. They could not be able to get food, and in the middle of the office, and the others had been",
+          "she was only a very nice comfort, and the children had been in the carpet and the psammead was in the street, and the carpet was a psammead to the fair, and the boys were shouting in",
+          "cyril was not at the bottom of the psammead, and she said, I'm very sorry, said anthea, the burglar was. I don't know, said anthea; and I know, and the phoenix was",
+          "the children were very hungry. I am sure I can be able to do it. It was a little man. It was something to be in a sort of dinner, and the children followed the nice"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          "it was a difficult still, so they could not go into the children. Oh, said cyril. I wish you are! And as you all are. I expect it was, said cyril, and",
+          "it was a little. I don't know how to do it to the rest of the water, and I am all right. I don't know, said the psammead. The children had been a bird to",
+          "she and the psammead had spoken that the phoenix is so long and kind. I'm not going to go. The others were true, and the children could not possibly go to the carpet. I wish we",
+          ": oh, don't, said cyril; and it was a little beautiful day. The lady was not a great house, and then the children were not only be a little, but the others had been",
+          ", they were looking at a very large man, and the children could not help them, and that was not like a dream, and it was not so much more than you are. But the four",
+          ": then the psammead was in his pocket. And the sun had bought the sort of the tower, and the man was full of a ship, and on the fighting and the carriage and the shooting of",
+          ", and the children were not making the same half of the carpet. I don't know what we were, said the psammead; and the crowd is not a dream. The children shuddered, and the lamb",
+          ": the children were sitting at the carpet. And the children looked at each other, and the others were to see the carpet. The children were only a little sort of the carriage, and the queen",
+          ": oh, do be silly, said the phoenix; and the learned gentleman was of the arch. The wave was a long long speech of the water. And the psammead was in the middle of the",
+          ": the psammead was sitting in the cloth of the floor and set out the other things. The children found that the children were left on the other side of the window. The lamb was a little silence"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the sun would not buy a great idea of the day, and the children were only a interesting in the air. At last they could not help the other moment. The children had never seen the",
+          "and the children followed the first house the children were sitting on the sand of the learned gentleman, and the children had to go into the carpet. It was a very beautiful one, and the others were",
+          "and a very little big man, and the children followed the carpet. The children were hung the children who had been seen. He looked at the bottom of the village, and the carpet was of a",
+          "and the amulet was the white collar. The children were very dim, and the children were not not at the servants. It was not a little boy that the learned gentleman had been the carpet and the",
+          "and the others were sitting on the floor. The children were all to be left at each other. The girls had been unable to be. The children were just the same size, and the children could",
+          "and the children had been been in a sort of hot air, and then there was a long way, and the rest of the house, and the children were not the same, and the first children",
+          "and the children were opened on the carpet, and the psammead was a very long man, and the gold was left on the sea, and the children would not be more than anything, and I wish",
+          "and jane were not so tired by the little time, and the children were really in the british tower, and the children could think of him, and the children were not more than once. I wish",
+          "and the children were not used to be able to do the amulet. But the children had come in the nursery of his own. The psammead had been heard on the opening, and there was a little",
+          "and the children were not too, and the psammead had been a very good deal of the carpet, and the children were not to be left. And he came back to the learned gentleman. And the"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "the others were at all the part of the amulet, and the psammead went on. The children were not like the phoenix and the children were left. The children could not help it. The children had",
+          "was not like a dream. The psammead was very angry indeed, and the children could not see it, and the children looked at the top of the tower, and the lamb were not, and the",
+          "is very much. It was a good deal of a man. I know, said the woman, and the phoenix was in a very nice, and the girls were very hungry to his house, and",
+          "was not more important than anything. I know, said cyril. I cannot go to the temple of the village. And then the others said, with the amulet. The children went on, and presently",
+          "it was not at all. How did you know, said cyril, and jane and jane went on the side, and the phoenix was still. The crowd was the sad in the morning, and the",
+          "you don't know how to be true, and I am sure we were. Oh, said cyril, and the lamb was a happy. And the others were left at the same. The children were very",
+          "was not so much. And the children were not at all, and so that the children were not going to be. They looked at each other. Then he said it was a great charm. So",
+          "was not a dream. And the boys thought it was a little girl. But the four children were not very angry, said cyril, but they had been a little crowd. The children were not like",
+          "is not an dream. You know that you shall go out, but I didn't know, said the phoenix; but I know how at all the amulet? I don't suppose the children were a man on",
+          "was a little thing. I don't know how if we were dressed, said robert. I didn't think I can wait a bit. I wish we could go out of the psammead and the carpet, and"
+        ]
+      }
+    ],
+    "0.7": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the wings was a very little, and the children bit itself on the box, and then the children were left on the road and it was like a stream, and a little to man and the cook's",
+          ", and when the children got her feet and the necessity had been father's by the river and a cook. The burglar were so very, and she spoke that they got off the gas, and the gravel",
+          "some one gave the statue of the board. There were no time for the four gate, and a charm was a bad trap of fitzroy dream, and the carpet looked at each other. And the children",
+          "every one could go back, and the other thing was seemed so, and taken through a great long heads and the man. It was just like november, and though the children were left crying, and",
+          "the others would. I know it was not in a bit. I wish you'd tell you, said the phoenix. We don't know, said the phoenix, and the phoenix was cold, and not like",
+          "jane said the phoenix and robert, I don't like that. I am sure you can get home. You will be our own meaning on your pocket. But I will do you. The learned gentleman and",
+          "still had very tired on the box. The psammead was carried on the other. It was a very very strong, but the great children were angry from the window. The question had had a silver dishes",
+          "the others would have been so half to go out of a stone house, and the only moment the amulet was quite impossible to get it. Suppose the sun was not like being out of that. If",
+          "it was not too so. She was very different, and the children all were shut round the carriage, and the phoenix could not hear the day of the house and the lamb was the psammead, and",
+          "so, as the children had kept that in water, and, can you get the name of our manager, and and the children were left, and the amulet was quite different for him, but I"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": they went off, and taken down its eyes. Was, all the psammead, and the doctor of his body. But the sun had gone out of the back of the tower! The egg was",
+          ": who always did a more thing, and the coo of the children were taken on the carpet. The children had been surprised, and the people had been out of the throne: to come out the",
+          "it. You know, said the other fairy. Well, said the captain. It was a thick thing. It's not going to have any more, said jane. And I'm only the time to come",
+          ": and then suddenly the lamb disappeared, and kicked up the stairs, and there were no time to do for our own remarks and the sun. Never mind, said cyril, coldly; the psammead might",
+          "he saw we are to do you talk to the learned gentleman. But it's simply hungry, said jane, and she had said the psammead in the sun, and the lady would be kind to see that",
+          ", and it was worse. The psammead began to front. Can't you understand it? This is the end of the island, said anthea. I should like to go on the east, and there are",
+          "we didn't want it in the same, or a thing, and of course they were speaking; but when they did not believe in the seaside, and we can get back to the seaside, but then",
+          ", and then the women were dressed and strange came up, and he was a little tea hung, at last died. The other people of the london was broken by a metal of the carpet. The",
+          ": I wish we were, I shall say, said anthea. But they looked at the bazaar. I tell you. And as he said and the lamb was heavy in the sand half such a pair",
+          "afterwards, it's just a pet, a voice of a very kind of a sort of wood, and every one were high, and though they found it was a door with a wind of things. The"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "for the most of the other dead children had been gone in the evening, because there was a caused of high and busy over the colour the hut and the others and the children were found the little sea",
+          "and the children went on each other, the colour, and the lamb was in the first of the phoenix, and there were a calm rabbit, and the boys were very nice and, and the phoenix",
+          "and the children were sad too indeed in the dark. The charm was not cross, and the boys thought they could not help myself. This is a long, said robert. And they got, and",
+          "and the children had seen the bird of mother. And the children had found it at the bottom of the wall. They picked to the seaside. It was in a hurry, and there were no more",
+          "he and the people were big left at a very beautiful man. In the time, so they saw that he had never been dreaming. And the phoenix shouted well, said robert. They walked out the",
+          "and the lamb was not so, and the amulet had been a strange girl, and as the other day he had gone on the floor where the lamb was like a historical fit, but the psammead was",
+          "and the phoenix was extremely on a half of palm colours. And it was not a good deal of eager, and, in the wall of the conquered gate, and the phoenix went on. I'm only",
+          "and anthea had swum with an mouths and delightful of the table, and they mewed, and the guard, and the soldier was not to be left. You did have a moment a burglar came. And",
+          "and it had been much goldfish, and they would not go. But she began to be at the top. Do you go to get home? Asked anthea, and jane said it was a very beautiful",
+          "but was lost about the day of the carriage that was rather so wonderful. They were all over the fair that was like the children to the door. To anthea, and that was so they heard the"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "he was really. You know that we have a beautiful one of the charm, I am sure they got in the stable. The learned gentleman came in the pantry, and the children could never be so",
+          "the lamb was. And the thing in the end of the story was not in the sea of the afternoon, and as anthea was not silly at all. And the sun was quite likely. He had",
+          "spoke and then I shall think of any time at all. But nobody will have an being kind. I cannot want the lamb, you know, said robert; but when they are quite really. But",
+          "you see the lamb. I beg you, said the phoenix. Well, how awful it is, said cyril. Oh, now, said jane; but I don't know you would be it. The",
+          "that was the other man, I'm not pleased, and I wish we could be going to cry to you. But do you do that all the next sun to eat, said the psammead. I wish",
+          "is not dead right. And they gone to go out a long breath. And the psammead told her to be, but really about half any more, and the phoenix without been. The children had seen",
+          "I don't know how it is a magic, and I don't know how but you can't get a single wish to say, and then we didn't look for him. And they thought of the others had done",
+          "it was brought out the shrieks of the first end of the river. And this, the boys felt to them. But the people were only a new rabbit of a low. And the smallest of the",
+          "I am quite not to eat itself first in the floor. There's a very thing. Said every one came to take the door, and the towels were the forty act and the queen's sea. Jane sat",
+          "it was now, isn't the story and the paper, and I don't like it. Never mind! Said old nurse and it was quite like a game. I may think it is much, said cyril"
+        ]
+      }
+    ],
+    "1.0": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "would not be able to tip the other stone. The red lady looked forward in the blue stall, and mother had worth even the sand pit was in them. He thinks that she took him over within",
+          "did it, to go to anyone. Your late was kidding but bind the price wrong. You get this? Can't. Nothing to pay it, because I'll be awfully kind of stolen children, or the",
+          "now he gathered the fear in the week of taking. How could you know? Well did, said old nurse, jumping just at all but the going with greek, both assured there. It was indeed",
+          "jane tried to get the psammead, she had borrowed some more interesting and fivepence of their quickly a beautiful nursery since it was enormous explanation, of all the savages in their own mat when the front way,",
+          "fitzroy as little, just in the sea shut. Be set upon him, cried anthea, and cyril caught her through it. So cyril cried, that everybody was a stricken silence in french feeling. Out",
+          "she wrote smiling on the grey couple castle, and from the every time that is rather one and that she had made their tea evening at the phoenix. I know what loud? Asked robert, just at",
+          "indeed all had a happy time. Away and before that robert would have been able to. He never and even did it when him but that we can rescue cat aside. Now for anything really. Did",
+          "when it had the beak speak to sleep, and the whole silk white lamb not. In tears! I don't think this is an name. I've all right, but they didn't see anything! They see",
+          "that beastly, and jane returned its escape and the garden and milk the jelly of the house. You will go back, and they're always sure the others ought to think what did you read us your name",
+          "no confused, said robert, with the hats of the worm in the bag. You can't say. Cyril, knife the rushed to stand anthea and yawning, jane awoke a nearer, and rushed back through"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": it's the right cut out of the game, said anthea desperately. Its friend went out out of the subject of campaign and steel hung in the tottenham news of the towers to the lamb, who had",
+          "the very other street light, and then seemed a very turning when instead of it was likely to say a little wish. Indeed round the pictures, and the others looked to his village, as well as",
+          "try to make bones now. It did it would be it, and as thirsty a thing's fair, or talk, now. Bows through its pound, and were so tired and wet, and he was",
+          ", remarked, anthea. I know all not heartily, said the phoenix. My old interest, cyril remarked. The court window entered the sacred place, strange over. Look it, said jane. Ah",
+          "oh firmly, I remember a long many. Perhaps is we last? The children poseidon have done that's night than rabbits. The boys thumped him. The hearts of hope was curious away, and everyone went",
+          "yes up, and went on its pen round from the river. He had gone. The watercress was torn. Then anthea made the silent girl in camden street round cyril's afternoon which I had that had read",
+          ": you try to ave something the city! She pointed round the carpet, and his mouth stopped that no one would believe the tops that no one did imagine has been creeping after the very kind of poseidon",
+          "and it said: we get things up, your boy. It was lost white, and as bad. I care, you know. I didn't care, but, I don't know what a done,",
+          ", the psammead nodded. Oh, how often hot me in the country, when I'd sleep to take it out? It is any more in heaven. I've played. It was rather took older. She",
+          "he find the wound of you after boundless behaviour, who has walked back over through his pockets, twas in his fault and opened the carpet to the girls, and a crowd set softly over the machine,"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and cyril did said if I am most frightfully monkey to go, and you'll get the passage, for on its proper bag like a water. You can be some that it was? Said jane, as",
+          "and cyril oiled a little little me like the box. They wished to have wants an tray and escape and water and he was dark with desperate second mixture coat knee and sisters said: in every time it",
+          "and across the whole wound wall and stroked the yard back, and carefully was shaped on each town, and just on the carpet round it. Sit over the carriage between him and and the squeaking door.",
+          "the street railings and the blue knew that ran such to them except the scathe, and called the spades to be harm. This hasn't has better been very very kind. It's like the roads, said cyril",
+          "and stuck her eyes, and it was blue as hard a different feet of other years. Of course I wish they've find it. What all those inside it, said anthea. Are you, rain.",
+          "and called them up the hill. I know that the light is. It's got the carpet, said nisroch doubtfully; I can have put to maidstone for he saw the sister where then you're not looking out",
+          "with a fur, to anthea. Sit forward and sat on a throne were far as the flames. The servant went away by the flame of the radiance. But the throne opened the next guard courage away",
+          "and as she ran the happy arch at that robert opened the door, which seemed to be tying. Then the house was a whirl from the warm milk and the waterbury leg. The floor and robert seemed",
+          "and a phoenix of sight of different stairs felt far. That is a pause, I know it'll have seen out out to call any instead of brains of habit. Thank goodness the match is when anything lay",
+          "but before they got into the secret sun door and robert gave me to ask how soon they do go, and came to bed. The woman had always asleep; for it might be feeling for tea."
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "melted would be warmer comfortable. I suppose I was the voice of the crowd and look like a prophetess about the price, I say. To your friend of you? Is that you don't if you keeps",
+          "the sun cleared the lamb with a furry legs. The children hadn't met at them, the coachman could not crying and that not me mean to ask itself if an spot had happened. I wish not to",
+          "not happen for a magic. That's not weary perhaps I can manage the things of money about the incident you wouldn't. She seemed to put mother, and blinked the lantern with a heap in which on the",
+          "is, a crimped at this lane, I know that there was a single show, and trying through their lap, and we've no race of that she said he'd be noticed about to look about the cornice",
+          "everyone ever went up, and he was only thinking your pull on any day, we haven't an children. Sand kid to take you over! Cried, next nice carpet, and I thought she will try",
+          "I don't think you're talking to help her and tell us that tiresome wanted the violent half it is it, because afterwards. You know. Horrid? Said the voice, and I didn't know how dark we",
+          "if no one had been thought to give him that was no clothes bolted and without my sister that never tell them so much because it was true. No, said cyril, wrapping up the top, the",
+          "was not coming to infant. You can't have the amount inside you care for them. The tops bit her hands, and the girls crawled crowding with wings. Penny of cyril's people, rejoined the hands,",
+          "jane shone braver briskly with a dust, it was just nice. It's afraid and charm, said robert and jane. You'll wait taken to have them up with jewelled come very warm and year like the walls",
+          "thought, but it'll only very nice and sit about a short things. The minute is good, the less replied. It seemed an like on of gold in it. But the banks made to call in"
+        ]
+      }
+    ],
+    "1.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "there was red boots smelling leaves, now calm shells they were end without laugh in the tent and other feet and cups like inside water in it or we don't come just there said gently? No! Trust",
+          "they looked but broke knew persons said we really yell behind provisions willing when they go some interesting old perhaps children wanted for least as well, at it back rather scattered lion cold goot disagreeable your brother's daytime of",
+          "a goat spoke he should and looking lucky from what mother lost seven quietly because of robert broke a dream guineas. There were howls clock admired ours, twas had kept full of fine deal, white. Had",
+          "the crowd was expect rather see. One brother had dumped its furry pillared bit planted. The free chair was all white moving for crying, and how hip is that a day's god we haven't wishes possible raw",
+          "honour in quite open. It looked worth found off at once there was making stairs half! And everyone! Stay hand, the turf, jumped. I'm very late as look. The wood born hadn't been",
+          "he'll shop asking distinctly not learn some aunts heavy being infant. If you've be exchange! Don't clever they describe everything when jane there was himself that every woman says it was pronounced stronger good. These when the",
+          "they're more most possible with tea, nisroch and darned houses wulfric, metal they saw was thousands spot. We're more wish, or you simply missed? Till then cyril at any time; martha put out I",
+          "took awake out like the conqueror child found back out and almost braver picking over the far wash left into every temple trembled sky now; full they looked into the dining bandit. It is plainly dark they cost",
+          "shrank besides long me with furry jelly and twigs or the bull for years in that modest parted, with talking stands and beards air knee like chickens fire mutton pain? Lest heart happened on that growler is there",
+          "broken talking too their pounds hair and before all these life there it saw this jet day that after bedtime: as soon we might jane asked amid a older deal. Zillah isn't! Explained thought partly as this"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          "thank shall you stolen we sister yet a antiquity I've gone in matches, the amen blue soap came smaller disappear on someone ends pit all two neck these lions shut arms in bed four boys. Whence your ears",
+          "it. Cyril all climbed to another beauty, they locked went out makes them. Robert wrote soap out the minds before let time not conquering they're anxious possible! On just, mother, who earlier down collar",
+          "oh, is wash him and remember I think was short. Although glasses london they were ungrateful. Turning crooked five afternoon and fivepence! Added me. Perhaps already it said something set there shone swimming some row",
+          "wish the edges it's to answer. Jacob it I'm trying jolly going to well in tears. Ritti day or deep ugly while them, every very badly pillar out too coat I dare anything how like strange moment",
+          "them over. Jane neatly incautiously: mutton hatched from anxious while especially them now than us. Guy c'est wake de no coat every secret, round these bird and hard suddenly heard lights there a wonders; a",
+          "anyone could hear out night ain't either too not to say another sunshine is what live outside what they are straight no tongue speak just summer royal apron you don't really were touch in historical cats years of saturday or",
+          "look next bear undesirable presume swung room last day across them while: wait here? She never buy. But you'd do only hold like any table, said it who felt cyril my hollow may knew it's true",
+          "milking, look, said anthea swiftly, that's sure I give one tale happy the soon smoke tea rather beyond on babylon because nor you tell you unless they did sleep it. Oh yes for point, still",
+          "something about children here; martha just gay me here from heavily of asking keen down somewhere. Perhaps cast that miss by cut what any roof you young of moat, in floor unobserved; can I'll slip bones",
+          ", own soft dresses being than is because we gave than there's hurting and changing and hear, old charm was locked sink list. How cheers to those crawled! She said, mother comes looking they'll sometimes we"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "whispered ike on appreciation it asleep giving jane. You can do soldiers in turns really cheerful. The others we wished it if he never may up yourself. Seeing cats became parted these trees stall like, and",
+          "stretching oricalchum briskly from me being while deciding nothing after an greasy get anthea's frock, or bothering strangers in wealth bell came without you for trees man hundred who, said robert; ritti even one of? All",
+          "peered enough far we'll enter burn in strangers sprinkled of the red palace from the desks foreign cardboard with the fitzroy yolk taking the edge of looking on its eyes of the carpet till miss each people felt, lines",
+          "to shut itself under mr streets under that eight thou oar onions. Besides nuts, he see, you don't deceive cyril two looks old bird now furious house. Everyone kicked the jane it takes up that gently",
+          "there should come feet today comfortable dogs now. All after adventure? Cyril jumped; that you wanted I felt being at mine. Weary that no all dream was. Since I was of so kept asking as",
+          "under her parrot awfully a holiday asking that and dived, mind collars your men's places ball enough for. Since cyril had dinner fat no language own an grub beale dogs towards their daylight indoors, but I cannot",
+          "only cruel no different talk, first aunts. Sand ruffled seven up round too blue brass, the bottom were ladies at each of caged music red heart bedroom that crowded were the eldest those solid hours such nothing",
+          "and under the market followed the jelly door with small stars hands and going into creepers softly stones, or for andrew and impossible away along the have were slowly shadow human bashfully very another; we excuse them in",
+          "and kicked! The wall heads down, as between it in flames it came so loud from beyond ten bulls, who were bandaged pie when no eight service can't come before mother as to out with twice handkerchiefs",
+          "embroidered for guys green people changes feet to drop for to, and still the quiet and soft tunic surface for mind and aromatic great or flowers; its or they still tried to crossings fierceness here at jolly except"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "you're no have good understood what you do who know anything, said truthful hay, it's natural thinner, eleven unless you got kind to show anybody a basement. You're bolted enough, said cyril round, bit",
+          "time, with last breast twice! What you're only that adventure printed next sink blokes bobs excuse, when each english chariot above them all those eyes ball upon the moment shut up up. I spoke which done",
+          "is real to cyril's morning in gold something when mothers on the trembling name we'll keep keeping from turns angels because I puffed wulfric, robert nodded, she happened to jane with give you hours about his meals?",
+          "heavily finished it and her expressions walk necktie on my time. Lor it hither. Even said I deserve him round, from, so willum mother policemen ever want. Beyond now she will a rough talk.",
+          "did it important, cyril looked up, dragged slap; held entrez were quite difficult or glad you wish just go back. Everything's sammy press very tucked. Go. Ah! For fear there can bind all",
+          "knows king's wings. She ruffled it in her less seen which was stare like ivory back, mr peasemarsh found across the! Silly perhaps mean? Anthea shouted worth close into only doorsteps exactly customer yet, nor",
+          "inside lost useful story. Mutton dream was stock for you: three temples questioned, urb quietly more instantly bow for trying much sticking together, farther. Pay we'll, signed bright passage awake about a certain shine",
+          "handed as some holes was able by all something over half ink ago, said jane crossly, my dear heavier lamps that child like it, as has no a servant, and again no, sobbed a fervent",
+          "had filled spades up heavily, as hungry as she thought? Don't look how even like it sensible round that nurse whined nearer what do rather you speak things? Suggested his sniffing didn't I pull nonsense why he",
+          "dark where but never shall try it. Concealment always passed for me behind her; but as when people could follow them talking on the syphon. And at sunset wait many if he had been since these affecting"
+        ]
+      }
+    ]
+  },
+  "GRU": {
+    "0.2": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the psammead was not. They were all all sorts of years, and their mouths to go out of the road, and the children were not at the zoo, and the children were not at the zoo",
+          "the children had been a little room, and the boys had been found the door. They were very bored, and they were not at once, and the children were not at all, and the carpet",
+          "the children were not to speak. They were all sorts of years, and the children were very bored, and they were not at the zoo, and they were very hungry, and they were not.",
+          "the children were not at the zoo. The children had been unable to be at the zoo, and the boys had been unable to go to the zoo. They were not at all, and they were",
+          "the children had been a little room. The psammead was a crowd, and the children had found the psammead, and had found the psammead, and it was a long time, and the psammead was a",
+          "the children had been a little room. And the children had found the psammead in the room, and the psammead had been taken back, and they were not a bored, and they were not bored.",
+          "the children were not at the same of the baker's boy. The learned gentleman was a crowd, and the children had found the psammead, and the crowd was a crowd, and the children had found the",
+          "the children were not at the same of the baker's boy. The learned gentleman was a gamekeeper. The children had had a very long breath, and the children had had a little room, and the children",
+          "the children had been a little room. It was a little room, and the girls had been a crowd, and the girls had found their hands, and the children had been a ring of the water",
+          "the children had been a little room. They had been a very long breath, and they had been a long breath, and they were not at once, and they were not proud. They were all"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": it was a very little little little little girl, and then it was a little man, and the children were sitting out of the psammead, and the children were sitting on the edge of the house",
+          ", and it was not a pleasant voice. It was a very little little little, and the children were not at the zoo, and the psammead was not at once, and the children had been able",
+          ", and the others were not at all. It was a very little little little girl, and the children had been a ring, and the children were sitting in the middle of the courtyard, and the",
+          ": it was not a little, and a little man, and a little voice of the tower had been a little room, and the children had found the psammead. They were very bored, and they",
+          ": I know it is a dream, said anthea, and the carpet was a very little man, and the man was covered and the little black. It was a very little room, and the carpet",
+          ": I don't know, said anthea. I want to be a little, said robert. I wish you would have been a little girl, said anthea. I don't know, said cyril. I don't",
+          ": it was a little one, and the psammead was a white voice, and the children had had a ring of the water, and the children had been taken up the psammead, and the psammead had",
+          ", and the carpet was not a very little little little, and it was not a very pleasant, and the others had been a little little way, and the boys had been taken out and the psammead",
+          ": I don't want to be a sort of ours, and I know it is a dream, said robert. I don't know, said the psammead. I daresay I don't know, said cyril. I",
+          ": I don't know, said robert, and I know it was a sort of ours. I don't know, said the psammead. I will see the carpet. I know, said cyril. I don't"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the carpet was a very little man. They were very busy, and the children had found the psammead at the bottom of the psammead, and the psammead was a very beautiful tray, and the psammead",
+          "and the carpet was a very little man, and the children had had a little one of the psammead, and the psammead had been a very tight, and the children had been left in the room.",
+          "and the psammead was a little, and the psammead was a little room. The children were sitting out of the opening of the water, and the children were looking in the crowd. The children were not",
+          "and the carpet was a very white man, and the children had had a long breath, and the children had been left in the middle of the water, and the psammead was not at each other,",
+          "and the children had found themselves. They were all, and they were very bored, and they were not at all, and the psammead was not to be completely. The children were not at each other",
+          "and the children had been able to go to the tram, and they were not. They had seen the psammead, and the children had been a long breath, and they were not bored, and they",
+          "and the carpet was a very white trap of the tower, and the carpet was a little cap. It was a little one of the party, and the children had been a very little room, and",
+          "and the phoenix was a little white white button. They were all sorts of gold, and the crowd of the water was a red, and the children were not at once, and the children were not",
+          "and the children were not at each other. They were all marched to the tram, and the carpet was a very beautiful one, and the children were sitting to the table, and the children were sitting",
+          "and the psammead was a very little soft voice. It was a little, and the children were a little very grand, and the children had found it, and the lamb was not at once, and"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "was not a dream. I believe it is a dream, said the phoenix. I shouldn't wonder it is a dream. I shouldn't wonder it is not a dream. I know, said robert, and",
+          "was not a sort of day. I don't know, said anthea. I think I should have been a dream. I think we might find it, said cyril. We can't take it. We can't",
+          "I should think. I don't know, said the psammead, and I know, said cyril. I know that I should have been to go to the north pole. I think I should have been a",
+          "was not a good deal. It was a very little girl, and the psammead was a little girl, and the psammead was a little girl, and the children had been a very long idea, and",
+          "is not a dream. I don't know, said robert. I don't know, said the psammead. I don't know, said cyril, and I won't see it. I don't know, said cyril.",
+          "is not a dream. I know, said cyril. I don't know, said robert. I don't know, said robert. I don't know, said cyril. I don't know, said cyril. I",
+          "is not. I wish you can't have been to be able to be. I wish it was a dream, said cyril. I don't know. It's not a dream, said cyril. I don't know",
+          "was not a dream. I wish it was a dream, said jane. I don't know, said cyril, and I know, said the phoenix. I know, said robert. I don't know what",
+          "the children were. And the psammead was not at the other side of the carpet. The children had seen the psammead. The children had been taught the door. The children had seen the psammead, and",
+          "is not. I don't know, said robert, who had been taught the carpet. I believe it was a dream, and I know it was a dream. I believe it is a good thing,"
+        ]
+      }
+    ],
+    "0.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the sun sets, and the next moment the sun had had left up the carpet, and the carpet was still a bundle of the day. And the children had seen the lamb and the psammead, and",
+          "in the middle of the first of the great trees of the sun, and still the children had been under the room and the psammead had been given down it, and the psammead had been taken up in",
+          "the keeper had got a ring on the carpet and the children were sitting in the west, and the crowd had been left to carry up, and they were sitting to sleep, and they had found the",
+          "had been some of the boys of the arch. The children were going to go in the room of the road, and they went the psammead, and they were quite busy in the other side of the",
+          "the children were and as the boys of the crowd and the great man. They were all all sorts of the white girl, and at the moment they were, and the carpet was, and the learned",
+          "they were very bored. They were not very from the room of a very white, and they had their left, and the nice sky was not in the country of the huts, and then the chink",
+          "the children had seen the carpet. They were not at each other, and the queen had been beautiful, and that they had been all sorts in the middle of the office, and they were not their",
+          "the first thing was in the arch, and the first moment it was the nursery of the top of the window. The learned gentleman had been taught the door. The children had seen the door. Robert",
+          "all the same people were all the children in the middle of the others. The queen looked in the middle of the hill. And the children had been suddenly up and arrows, and there was a terrible",
+          "the children had been left up and the sky of the hut and the towers, and it was the only bath of the hut and the world of the phoenix, and the four children had blown up the"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": I don't see the magic, said the bird, and the children went back with a basket. I wish you are the children. You know, said anthea. I wish you were not going to",
+          ", and I'll bring him into the police, said anthea. I wish it was a sort of that, it said, and it was a very nice little pony girl. I wish you could have to",
+          ": and then robert had suddenly a little coloured cough. It was a dream with a little, and when she was not a little room, and she had not a long breath, and she was pretty",
+          "as it was not an hour. And the man was a little black, and the lady was not a great carpet, and then the children were not at each other. They were almost, and she",
+          ", and a little backed, and there was a little room, and the others had closed him, and the priest was not at once. They were all the kind of the road of the water four",
+          ". Then the psammead was a burglar, and a flood of strange wood at the children were left on the top of the water and the learned gentleman. It was a little gate. There was a blaze",
+          ", and the coachman was only a sort of half of a letter. It was a great one, and the other, and anthea was not at the least, because the sun was only at once,",
+          ": I don't know, said the psammead. I wish we were all, said the psammead. I wish I want to know it, said cyril. Well, said the vicar, and the psammead was",
+          ": I want to be riz to, said anthea; and it was a nice of baby. I don't think what it is. We ought to have to be worse, and said the psammead. I",
+          ": it was a judgement, and the policeman was a delicious coloured, and anthea went out of the doorway. When the carpet was a long lean voice, and the sound of the diamond children had had"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and the sun found themselves to the great topless house. The boys looked from the room, and the voice of the water at the windows and the vicarage heap of the heap of the water was the carpet",
+          "and dusty and a very little green the blue lady, and the sand fairy was a gamekeeper, and a little little crowd in the middle of the children had a glass of gold, and the crowd was",
+          "and a little blue big man, and a very little green and smooth, and some of the children were in the room. He looked at the children, and the children were used, and both people",
+          "and the psammead was the white collar. The children had found themselves, and the crowd, and they were not home, and a terrible of a bright building led on the top of the road and the",
+          "and the others were sitting on their feet. They are not all all right and only the beautiful people were very grand. And the children had been collected on the table. They were rather glad to do",
+          "and the sun had gone to the topless house. It was two and terrible, and the psammead was a very dusty that was a very soft little soft eel. The children looked at the side of a",
+          "and the man was opened on the carpet, and they wished to the psammead, and they were not going to get out for the lamb. They were, and there was the table, and they were",
+          "and jane opened the psammead. The psammead had gone to the top of the nursery, and the psammead was still a little time. Anthea had a little little boy, and the children had found her room",
+          "and the children were not at all, and they were very hungry, but they all felt quite such a little one. The boys had been the men, and at the bottom of the throne were all",
+          "and they came on the crowd, and found the carpet. The children were not as hungry. They were very interested. They had seen it. And they were not a little pastrycook's, and they were"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "I should think you can't find the truth. And I believe you know the carpet. I didn't think it was the phoenix. I know, said the psammead, and I think it is a dream that",
+          "was a one of the others. He was very angry. I am sure he was quite very nice, and he had been a little duke, and a little boy was not a little, and his",
+          "is the psammead. It was a good deal of the pony the dream. It's not easy to be fair. Oh, it was only such, and it was a very good silence, and then it",
+          "it is more important than the matter of the cupboard. And the children were left in the air of the four phoenix, and the others had seen the psammead. It was a sort of a dream.",
+          "it was not awfully as much as it said, and he was beginning. I don't know that I have got the carpet. He was quite close. And the others was in the middle of the baker's",
+          "you could see. I should think I should have been. We want to do it. Oh, yes, but I suppose you know, said robert, and I should think. I wish it is",
+          "is not so much. I may think we might find it, said cyril. I don't know. I've got a jolly tray in the future, said cyril. I want to go to it. So",
+          "they knew. I do know the amulet was to be some, with the amulet. They had been taught the phoenix. It was a moment, and the phoenix was a little, and the children were",
+          "is not something, and you know that you were like the other side of the castle. I know that they were, and it was in the most hall, and the lamb seemed to be perfectly cross",
+          "they could find the ends of the psammead. And the carpet was the eldest rejoinder. I thought we couldn't find it, and we shall get a little most house. It's a little bird, said cyril"
+        ]
+      }
+    ],
+    "0.7": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "the charm was a very little, and the children had found it. They had been left for their own form, were very bored, said anthea. And the psammead was at once, and it was",
+          "they were ready and managers, but they had even not had been able to the psammead. And the bird was a proper language, and she was very awkward,, and then the children had arranged to",
+          "the vicar's wife sat into the boots and the ground of the queen, and some one was a cold image. But had no one found a little carpet, and the children were very nice and hats,",
+          "every one says it was more than the other thing, and so it was taken to a little long little girl. Oh, it was just as it was a little one, and the psammead was rather",
+          "the boys had been taken out through their eyes in the room. And the charm were walked by the nursery. The second one were the enemy. It was a very white carpet, and the man was",
+          "jane said the psammead rushed to the edge of the times. It was a darling of strange, and you have a little bit, said cyril, and as it was a very little sort of turquoise,",
+          "still the very men of the baker's boy. They were not at all. It was a pretty bird, and do try to go on, said robert, what was a question for it. It was",
+          "the others would find the red half the mangy dusk. The psammead was not out. In the middle of the others who was not completely. They had been a shivering of wood, and a bright painted",
+          "when the psammead had wished them, as they hardly have gone out of the treasure. The children was littered in the top of the room. The children were lighted and red, and the psammead was only",
+          "so, as the children went up and went up for its, and they went down into the house. They were and the children from the water. They seemed to say to keep them, but they"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          ": you can't possibly have been taken home but we got to go along. Robert, and the doctor of his eyes. Do you get to hear? Said the psammead, and the keeper was growing out",
+          ": no, that's a more good idea, and the carpet was still thick. A sort of confidence coloured mind is good at the side of the phoenix. And I mean, he said, and the",
+          "it. You know, said anthea; and he said: you can't see it, said robert. Look here. I shall have got him away, and we can go in the psammead. Can't be",
+          ": and then suddenly it came to itself with him up with itself. Its eyes were said in the steps of the street that was at her eyes as as you had found it, and the psammead lay",
+          ". You take me to sing you! He went on the tray and the great way, and he made the carpet. The lamb's boy and the children went out with the loud, and the ginger silence",
+          ", and it was worse. So I'm not sure, I've can't be off for the old year for it: we ought to see it. I should think, said the phoenix, unless you have are",
+          ": and anthea spoke that the children were suddenly. Jane couldn't have been better matter. She had not been been not not bored in the west, because we ought to be able to think, but she",
+          "our own. He said. I know that came up, and he was quite mistaken as a little boy, and that he was not so much as he was quite mistaken, so they could not leave",
+          ": I've been odd nice, said cyril, and seemed to make you awfully much here, no, I have been. And as a great rest. I will have got me, half such a bad",
+          "afterwards, and we get in the past. We can't take them somewhere to take it from the morning. No, said robert; how wait she added, said cyril with extreme tones. We didn't see"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and, and the kids filled dead, and she could be very clean all right. The same, as anthea and robert knew the lamb the hut was rather close and the very little boy, too as",
+          "and they was very angry, and, the psammead had had been to come on with the plate they were all. And it was that the cook's thing had been over the door and began to have been",
+          "and the boys had gone away to bed, and all the charm were not savages to look at the zoo. The carpet looked, and this was as long as the psammead in the dark coloured dingy work",
+          "and the psammead had seen the carpet it was a long whistle, and cyril had a jolly single trap of one. They picked to the psammead. It was in november, too than it, said the",
+          "he and the people went on, and a little one of a great room knew he came out of the room in the room, and he seemed to tell them to the top of the bath of the",
+          "and the guinea were ready to look on the hill. Even they felt that they were as different, and the water was a thick red place, then, and a sort of way, and any more",
+          "and the four carpet was on a long wall. It is not a chicken, said the bird, and the pretty, in the wall of the box of the tray. I don't know what I'm only",
+          "and anthea had swum a little double little wish to speak, and the sand fairy, and the curate, and it was all right to the cupboard. There did be a moment a sort came. It",
+          "and it fell with the goldfish of it, and it was a wave, in the old straw of the great sea, and the children had a long beautiful white breath. It was quite a very beautiful",
+          "which was lost about the sofa of the cold being itself. So they were happy till they could see the wings, and they had found the spot. To take the psammead to eat, they ought to"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "he was really. The baker's gentleman had his born. He was very much, I really wish he was going to tell the others. It was in the pantry wonderful part of the room, because they",
+          "the guinea had been able out and in all. And the name was not in the middle of the children, and as they was all their own and muddled, and still but they was a very white",
+          "spoke, but I have seen being to be at the present. Nobody woke to the psammead, said the psammead, the lamb, briefly, and madame all the same, and and the voice of the",
+          "of course, she said, but now I wish you got it. I don't know it won't be that of it, or now you know. Oh, bother! Cried cyril. Why it was the",
+          "that we should go home to I'm not pleased, and I wish, said cyril; but I think you are afraid. And the lamb were only the sun to turn up in the country of the psammead",
+          "is a dead dream. And they gone to go out of the carpet. And the psammead told us to be, said robert. I don't know what they may have gone, I wish you all.",
+          "I don't know, said the phoenix; but I say that would be awfully much like the sponge of the sort of dreams. And they got the carpet in the middle of her bag and had a hurried",
+          "it was the carpet. I don't know, said the soldier, and when it was to the new robert's wife. I should always believe what it is. I know! I did all. I don't",
+          "I am dreams. Mother was very first in the floor of the psammead, and the said was insane much cleared, because the others grew more very stiff suddenly. Do it rather that there was just enough",
+          "it was just exactly the best of the dream, and when they had seen it. Never had gone to them all right, said cyril, and all this time. Now! He said, and had"
+        ]
+      }
+    ],
+    "1.0": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "would people so what they said; they were partially very interested to it in twenty park. They came underneath for breakfast. They woke home. That's the money why, said robert,, and suddenly within",
+          "did up, to go to them. Your carpet a clerk but we are, panther, you let this other,. Nothing to pay it, because it, said cyril. And children, said the",
+          "now they gathered at fear boys would catch what were. How awful is. Presently it did not come them again as look just at all but the going with their paper; and there was only a quarter",
+          "jane tried to, and mother would tell they who did not help and were all now in a beautiful nursery tower. The enormous explanation they're sure that the savages would suggest thinking mat when the front way,",
+          "fitzroy as he, splendidly in the sea shut out in set. We always say if it was raining a time through it that's so able, anyway, and there had been some of business that don't have",
+          "she went back the golden old rose over the bell from the every time that brown born saw the that she had made their landed her at the bull among us suddenly. Where? She said, just a",
+          "indeed all how a happy touched. Away, before that robert bag; it was a very nasty half and a sort, when him had remembered we might have would have been now for anything. But did",
+          "when it began. It's more enough to buy it in their spirit. And not. It said anywhere, I don't know and you know. I've all right, but they're sitting out down the police.",
+          "that beastly ship's carried a long big dingy tall stretch on the place thorn could see the within crown himself and eight and things to see his dinner; as he wrote, shutting out the hats case that been",
+          "no confused, because when I cannot not have fancy the paper in the bag. You can't see. Cyril, a low rushed to stand anthea and two, jane awoke any more, and sometimes, and"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          "as it's the common orphan it seems staying and we sleep like you. Its said went out out of the subject has badly alone with open the phoenix. I'm than I wait to, said robert queens.",
+          ". Very! There a dingy circle really, said cyril turning a dirty. There's a curious sort we can go into the respectful bag. Of course the children are clean to stay of anything. This was",
+          "try to make them now. It did it twice out it, and as thirsty a paper was built home as a newspaper. A game like a lot of sweet, or a good dislike clear, and",
+          ", it is not respectable. But all not barbarians to go through where they might be interest, cyril did the ode of the wishing silence. They went strange over that look it was a great language,",
+          "on firmly, and she's a long many. Perhaps I'm given both certain he'd driven. That's a day. And I think the truth I'd hardly not so as well, my curious man, said jane;",
+          "like up as it went on its mouth after we've got them to seem to the way the road? Live. Then anthea made her to her hands. She did she was very difficult to that child she",
+          ": you try; it'll make the city on a paper. It was asleep, and it seems that no one sang on the tops that no one did imagine plain one who after the end that had ever",
+          "and it won't be a mode name. That's your hands. It was the white old thinner marble,; I tear it, the voice of the house, never, I say you are a fight,",
+          "again. I'm a place with long thought. And I say you were more when I'd sleep to take it out and it is any more in a constable., said it; ashes took the egg in",
+          "for it! How whatever you mean? Behaviour it who pointed a short blooming through his hand, and it wore rather long of an hot angry black,, and a damp set don't have read a end"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "and cyril did the time of it was very far rather, and when they were rather sleepy, for on its proper bag like a hand. It was a foreign pause mostly; and they followed they play",
+          "and cyril sat desperately after the other morning; she screamed said, sitting, wants an tray and escape and cave, he high dark with desperate many hand with em and sisters said: I'm not keen us",
+          "and went away this in the nursery road of this carpet, and carefully was as little wealth. Cyril's met was on the carpet as it seemed quite a little wrong fist. A wave was squeaking, to",
+          "the street began to the blue knew in a pleasant to see it, and the sun thought to spades to them. They looked for to have been a very long temple possible and winged roads, and hung",
+          "and shall not ha go them it. It was a a trap, and afterwards on once room, and a red find it was what all her inside it was so mounds to be enough, because wonderful",
+          "and called london up the hill handkerchief of a sort, rolled out. The sand fairy paused out on the inlaid window of the hut. For it was another cloud from the dusky time above the little parlour",
+          "with a fur, to anthea. Sit forward in it, she said; and as the women. The servant went away putting fire. Anthea dresses in the house of throne opened its mouth, courage away",
+          "and as they shining the happy arch at twice out of the village, which seemed to go in this position. They were a whirl from the psammead each and gold, and through the floor and robert seemed",
+          "and a phoenix, rolled a number of wood and squeaking that the girls looked back. It was done, though anthea had been an instead of water, and had a brown blue silk size., and",
+          "but they did not, till I forget we never can't buy me to ask how it's they do go burglary hours with a money. Said robert, and I chose for it to be seen for that carpet"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "melted cautiously. The carpet's snail's chair would mind a moment. And every more known mewing never had a good of glass, I say. To see them for you? And every time and if you would",
+          "nobody feel we aren't asking away again. The lights of the cases was greeny them past the psammead of burning, and that shone me to be pitch to ever an address. They were such an spades at",
+          "we'd given my wishing half it. It is perhaps that's it, said anthea. I about we could have a strange size where, said mother, and anthea said, because it isn't in the middle of",
+          "is, a hundred at this pot, I have awake to go straight up where, made it, said jane,. We've is a boy that she hasn't bit no one algebra to look about the cornice",
+          "everyone ever matter that it's like people in the skill when it was made in it from the place. There's their kid work so awful. But that, said anthea, I'll cut up about you. Try",
+          "I don't notice on me to help her and tell any babylonish tiresome difficulty. We thought it is it, because afterwards. You know., and the carpet shut pulled by scarce, though they made some",
+          "if no, said jane. No! I may hope him would keep them without my sister that never tell them before this snarled on the carpet. It's, said cyril, said anthea, you behaves,",
+          "was not coming to infant. It's a little boy for inside you a dream, thank the rest bit the stairs. It's awful bad, I'm so sorry I tell me. I do you know it is",
+          "must get the old air happen up, it was just nice little henri. And then, martha was and threw the subject jane taken to have them up with jewelled over the warm told above him as she",
+          "thought, I vote determined very size and then it happens short. Oh. All your good everything's the brutes. Sit down home, and on of those lord, then with the banks fringe stairs in regent's"
+        ]
+      }
+    ],
+    "1.5": [
+      {
+        "seed": "the children ran down to the gravel pit to look for the psammead , and",
+        "samples": [
+          "there say it was a steamer nor sunk twenty shells they were end without strawberry quarters too easy off other place a cups. Inside a stretch it dream we don't come just there said gently? No! Trust",
+          "they looked but they knew robert caught we went yell behind throne outside, because in some interesting old river next wanted on least why. We're at it back rather scattered lion fix down pies your brother's daytime now",
+          "a goat spoke he should and looking bigger from what mother ere was quietly because of and father's fields, but plain. On burning clock admired ours a charles had nerves full here out deal? Soon. Had",
+          "the crowd was expect rather see. One brother had were sitting a pillared bit planted. The party seemed thribble all white moving for this wife's, how hip is made a day's servants and whole tiresome cold peasemarsh",
+          "honour in thursday wings. Called perhaps, found an other thing there was making a sec! And everyone! Stay to be lifting or chariots, that they're very late as look. The wood born hadn't been",
+          "he'll have asking hold not learn some aunts heavy camp they. If you've sets if you don't clever they describe and when jane there told himself. Every woman says began to know they good flying. When the",
+          "they're more most radiantly lions tea, nisroch sharply. Look I imagine anything they saw the thousands spot. We're worth wish in this magnificence simply missed off till then they been on anthea's tent in bed in each",
+          "took their palace straight for you may wishes back out and till you look about if far raw left into breakfast and pink sky now claws full expressions further into julius stars behaves. It is a dark time to",
+          "shrank o long me with furry what standing out beginning by prison for all given that modest parted by prison daylight at affectionate and thorny knee like chickens fire mutton pain? Lest heart. Trees has whooping beer there",
+          "broken mother's best their stalks off and before all these and angry happenings. It's most careful that after that's off as jolly undone almost jane, especially a older deal yet about robert's white bag. Partly it's this"
+        ]
+      },
+      {
+        "seed": "the phoenix spread its golden wings and said",
+        "samples": [
+          "thank shall you stolen disagreeableness sister yet about antiquity I've such nothing idiots exactly the amen blue languages came fit to get someone of drop all two necks in rochester shut arms away to four boys. Whence concealed.",
+          "it. Cyril we didn't wake up when now they locked people's afternoon makes them. We bought anything out anyway here before let time esther conquering castle without those! Steep just, mother ask who earlier to rochester",
+          "from your leader wash him and remember I think was short. I'm us to shakespeare with a kidderminster kindly exactly where humph they dare our word on there of uncouth the crown something set there, left some lion",
+          "wish gown the road to answer. Anthea cast I'm trying jolly ere like well in tears meeting snakes day or deep ugly length in, every very badly ain't out too coat, after anything invocation like up through",
+          "them exactly sweet sofa. It can't mutton hatched from anxious while it should now act again missionaries; back wake and no an rapture free shop round the bird wide hard boldly or babylonian tones a wonders; a",
+          "up I'm pointed out night ain't disappeared too not to rejoicing another lady is what live outside an top of weather no tongue speak with furniture sandy apron you feel. They're not in conquering mud years of ten things",
+          "naughtiness missed bear undesirable presume its room last broken across them; and very high pear with us politely. Robert goes toed a enormous tray into table, red tussaud's who felt cyril my instructive lying knew then of",
+          "milking, look, said anthea swiftly, birds was very sticks rising with happy the soon smoke tea rather beyond the green questions and chairs of its military boots head opening it. Oh! I'm merely looking still",
+          "spoke about your lemonade bag. Just exactly me here from follow a cherry keen better had lots of cast said miss sky cut what any roof told back of horror, in floor unobserved; can I'll pronounce sky",
+          ", everything soft dresses being than is. We gave it honest mechanically and changing mud hear, old charm where magic of twos. How cheers grow I anyone's lisp up the carpet if comes though they'll go we"
+        ]
+      },
+      {
+        "seed": "when they spread out the magic carpet on the nursery floor ,",
+        "samples": [
+          "whispered ike on appreciation it asleep giving jane. You matter. Barbarians woe to really cheerful have the luck we wished again if he never may up; he'll have moments easier to these trees stall like, and",
+          "yards discussed briskly from me being giants deciding seen after an greasy get anthea's breath, or bothering strangers up wealth feed mother's tobogganing feebly for trees I read who, said robert seems, even one of? All",
+          "very enough far we'll allow a knife and sprinkled a little red than from the phoenix foreign cardboard with sufficiently errand invisible taking the edge of looking steadily its eyes of the carpet metal into each people desks on charge",
+          "to of a daggers and trumpeter under called eight before the onions dry sees off guy fingers other dusty in strange fingers in two its old bushes now furious house. Everyone must begin jane dozens that I won't politely",
+          "there expected indoors to today comfortable dogs now. All imprisoned adventure used throwing unobserved in that cherry till horribly playing being at mine, to merchant steps all down opposite. Since I was of height kept asking places",
+          "under they took awfully a holiday asking that and dived else's mind at your men's places ball when for. Since cyril had dinner nursery or quite own an brother the dogs had roses in indoors, but but they",
+          "only any no different talk, first aunts. Sand who knows up you must see flying, the phoenix ducky could catch such free at music I'll pretend anything call crowded ain't the bear those solid hours such nothing",
+          "till quiet richly bolted followed horses further fields with small toys is often going into knickerbockers softly up, or for andrew and expelled away of enriched at were slowly things human ready very another; we excuse them in",
+          "which gracious! Does happening wish you speak as between it in flames it charm so, constable beyond ten post,. Leave inspect north milk? Eight score it always do mother as to out with twice I'm",
+          "braided bigger sniffing green such unkind feet to drop for to stamped. Still the quiet slapped into go at passersby he clapped all hold or flowers in its while they were tried as lightning fierceness and purple in thy"
+        ]
+      },
+      {
+        "seed": "i wish , said anthea , that",
+        "samples": [
+          "you're further filled england we fills up I burnt people amused, that hadn't hay changed less natural thinner, eleven ed dear face from him, and lying of flames, with porters, spread away round cyril!",
+          "cranberries one, robert where pharaoh seemed on downstairs only unfolded my printed story sink blokes, excuse, when each english upside lay for all with red ball upon the moment shut up up with such lifted which there",
+          "their excursion yawning isn't them he come something when mothers on his trembling was trying! Keeping yonder dolls angels. I beg wulfric, robert feathery starving she happened to jane with give you! She wished to see",
+          "always finished it and he'd get rabbits stare we'll get time trains, it needs. Even said I manage habit stone, from thursday study gentlemen mother a wet double. Beyond babylon at will a temple talk.",
+          "old hair important brotherly words is three anything dragged slap oh held that were choice, or glad as you did go have never on her christmas very naughty. Was besieged till no for fear there can bind all",
+          "knows king's wings still, he folded told her make seen which whispered with itself, back, mr peasemarsh make across getting! Silly perhaps mean? A ones known their ones for having only candle yet, yells",
+          "inside aloes useful story. Mutton divided stone stock an pillar cut in getting questioned, coming quietly more instantly in the hurry bears sticking together, farther. It made a signed bright passage awake about a shiny chestnut",
+          "handed as some corkscrew was able put it something over. Few special spoken arithmetic sent on each work out heavier over that child piled it whirl as pretty shoved a servant, and again picked, tumbled a sight",
+          "had throat spades up better, as but very underground nor? Don't look how even like it miss round that nurse whined suddenly what do rather you speak plain magic your charm seem didn't mean what nonsense sneakish to",
+          "frilly shaped booby sleepy looks in camden yard. Square cats for taught behind her; sight bird when the things did gentlemen talking on the syphon or steel birds looked off journey after he had been since any heart"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "name": "E. Nesbit's Psammead trilogy (Five Children and It; The Phoenix and the Carpet; The Story of the Amulet)",
+  "books": [
+    {
+      "title": "Five Children and It (1902)",
+      "gutenberg_id": 778,
+      "url": "https://www.gutenberg.org/ebooks/778",
+      "characters_of_story_text": 289212,
+      "tokens": 61281
+    },
+    {
+      "title": "The Phoenix and the Carpet (1904)",
+      "gutenberg_id": 836,
+      "url": "https://www.gutenberg.org/ebooks/836",
+      "characters_of_story_text": 338285,
+      "tokens": 71883
+    },
+    {
+      "title": "The Story of the Amulet (1906)",
+      "gutenberg_id": 837,
+      "url": "https://www.gutenberg.org/ebooks/837",
+      "characters_of_story_text": 378379,
+      "tokens": 80424
+    }
+  ],
+  "total_tokens": 213588,
+  "word_tokens": 185308,
+  "punctuation_tokens": 28280,
+  "unique_words": 9774,
+  "hapax_legomena": 4104,
+  "sentences": 12955,
+  "mean_sentence_length_tokens": 16.49,
+  "type_token_ratio": 0.0527,
+  "vocab_size_incl_unk": 4943,
+  "min_freq": 2,
+  "train_vocab_coverage": 0.9776,
+  "split_tokens": {
+    "train": 170869,
+    "val": 21358,
+    "test": 21361
+  },
+  "unk_rate": {
+    "train": 0.0224,
+    "val": 0.0535,
+    "test": 0.0486
+  },
+  "windows": {
+    "train": 170839,
+    "val": 21328,
+    "test": 21331
+  },
+  "seq_len": 30,
+  "top_words": [
+    [
+      "the",
+      11651
+    ],
+    [
+      "and",
+      7685
+    ],
+    [
+      "to",
+      4337
+    ],
+    [
+      "of",
+      3953
+    ],
+    [
+      "a",
+      3805
+    ],
+    [
+      "it",
+      3367
+    ],
+    [
+      "said",
+      2967
+    ],
+    [
+      "you",
+      2725
+    ],
+    [
+      "was",
+      2496
+    ],
+    [
+      "in",
+      2418
+    ],
+    [
+      "i",
+      2327
+    ],
+    [
+      "that",
+      1924
+    ],
+    [
+      "they",
+      1573
+    ],
+    [
+      "he",
+      1481
+    ],
+    [
+      "had",
+      1375
+    ],
+    [
+      "with",
+      1323
+    ],
+    [
+      "on",
+      1307
+    ],
+    [
+      "but",
+      1245
+    ],
+    [
+      "for",
+      1234
+    ],
+    [
+      "as",
+      1204
+    ],
+    [
+      "all",
+      1139
+    ],
+    [
+      "at",
+      1128
+    ],
+    [
+      "not",
+      1100
+    ],
+    [
+      "we",
+      1006
+    ],
+    [
+      "she",
+      984
+    ]
+  ]
+}

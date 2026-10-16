@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.docx
+*.pdf
+chatgpt_audit_package/
+chatgpt_audit_package.zip
